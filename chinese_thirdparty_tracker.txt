@@ -1,0 +1,17 @@
+! 友盟 umeng
+! #alibaba
+||umeng.com^
+||umengcloud.com^
+! ||umengcloud.com.gds.alibabadns.com^
+! ||umeng.com.gds.alibabadns.com^
+||umeng*.*.alibabadns.com^
+||umeng*.alibabadns.com^
+! ||umengjmacs.m.taobao.com^
+! ||umengacs.m.taobao.com^
+||umeng*.taobao.com^
+||umeng*.*.taobao.com^
+
+! 阿里云移动数据分析SDK
+! #aliyun #alibaba
+||adash-new.man.aliyuncs.com^
+||adash.man.aliyuncs.com^
