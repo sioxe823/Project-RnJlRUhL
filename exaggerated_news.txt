@@ -4,6 +4,9 @@
  # 這份名單旨在提醒用户 故未有打算兼容其他adblocker格式
  # 若長時間沒有再發表誇大不實內容 可申請下架
 
+ # 推薦: 反共媒list
+ # https://github.com/festum/anti-bias-media/
+
  # ***壞榜樣***
  # https://github.com/4111314/My-AdFilters-for-websites
 
@@ -13,8 +16,14 @@
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
+appledaily.hk
+omoplanet.com
+nextdigital.com.hk
+nextdigital.com.tw
+nxtdig.com.hk
 
  # 法輪功
+*falun*
 minghui.org
 epochtimes.com
 epochtimes.com.tw
