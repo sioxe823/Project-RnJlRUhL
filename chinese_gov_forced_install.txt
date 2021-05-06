@@ -1,0 +1,106 @@
+! 人們不喜歡這樣 他們留言說他們是被迫安裝這些跟踪App的
+! 此blacklist只分析了這些App的android版本 ios版本尚未測試
+! android image https://user-images.githubusercontent.com/75058881/116759168-4a8a2e80-aa44-11eb-8f78-32e7a6fbc8ca.png
+! android image https://user-images.githubusercontent.com/75058881/116429263-4e695580-a878-11eb-9545-351544f82748.png
+! android image https://user-images.githubusercontent.com/75058881/116429153-32fe4a80-a878-11eb-8182-a031f515a442.png
+! ios image https://user-images.githubusercontent.com/83683882/117110884-62054680-adb9-11eb-8962-9d899dce549e.png
+! ios image https://user-images.githubusercontent.com/83683882/117110872-5ca7fc00-adb9-11eb-9f76-2889880c8e8d.png
+! ios image https://user-images.githubusercontent.com/83683882/117110857-57e34800-adb9-11eb-9144-0282c39c6bc1.png
+! ios image https://user-images.githubusercontent.com/83683882/117111572-6aaa4c80-adba-11eb-930e-da0993764c8b.png
+! ios image https://user-images.githubusercontent.com/83683882/117111651-831a6700-adba-11eb-9c3d-be402be20c8b.png
+! ios image https://user-images.githubusercontent.com/83683882/117111667-87df1b00-adba-11eb-86fe-09dab3017c62.png
+! 此list使用adguard格式
+! How to create your own ad filters | AdGuard Knowledgebase https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+! 考慮到其他知名blacklist已經能應付 (例如easylist china, adguard, privacy-protection-tools/anti-AD) 因此這些App的第三方tracker並未加入
+! clone自某位熱心人士...
+! ***** 只包含強迫安裝的app *****
+! google有关search result
+! https://www.google.com/search?q=inurl:v2ex.com/t+OR+inurl:pincong.rocks/article+OR+site:mohu.rocks+%E5%8F%8D%E8%AF%88
+! 如果域規則或ip規則的前面帶有註釋符號 則表示不確定
+
+! ----- $app=com.fiberhome.wifiserver -----
+! app.name.zh=蜂采
+! app.name.en=BXAQ
+! app.hash.md5=155945a28c2b0158f47eb6a6351d795d
+! https://www.virustotal.com/gui/file/dc12d5c78117af8167d8e702dd131f838fe86930187542cf904b2122ba32afd1/
+$app=com.fiberhome.wifiserver
+! 這個app不會把掃描結果發送到外部ip 所以推斷他們應該是把訪客手機連接到他們的wifi設備來收集掃描結果
+! 關鍵字: 目標對象_新疆 fenghuo 烽火通信 烽火科技 fiberhome exmobi
+
+! ----- $app=com.hicorenational.antifraud -----
+! app.name.zh=国家反诈中心
+! app.name.en=
+! app_1.hash.md5=d33dc963dce30a28fa55ba30f8058816
+! app_2.hash.md5=62ab07b8b7dac89f9e54868b255bd480
+! https://www.virustotal.com/gui/file/a5d87370d81bfbd9c76ee1bfe938c591a41da1d260ae98b9dde17c4e64e5e5da/
+! https://www.virustotal.com/gui/file/527b68a73f466a6cdc6fd05dd462700399cef6a974d748a28724322e7ea73e42/
+$app=com.hicorenational.antifraud
+! fzapp.chanct.cn
+||chanct.cn^
+! --- 由同一人註冊/同一备案号 ---
+||chanct.xyz^
+||chanct.com^
+||chanct.top^
+||chanct.wang^
+||fz96110.com^
+||chanct.ltd^
+! --- 由同一人註冊_完 ---
+! 關鍵字: 目標對象_全中國
+
+! ----- $app=com.bestmind.antifraud -----
+! 使用與com.hicorenational.antifraud相同的簽名
+! app.name.zh=全民反诈
+! app.name.en=
+! app.hash.md5=2e1005716fbb75ddd2d229f83a061c49
+! https://www.virustotal.com/gui/file/c8a6010ad46e754371ca26c8ca7d925fc41d3e34b17158a9ba18a1e871fe8b7c/
+$app=com.bestmind.antifraud
+! antifraud.fzlm.org.cn
+! antifraudh5.fzlm.org.cn
+! resource-antifraud.fzlm.org.cn
+! 反诈联盟
+||fzlm.org.cn^
+! --- 由同一人註冊/同一备案号 ---
+||hicore.com^
+||fqzpt.com^
+! 關鍵字: 目標對象_北京
+
+! --- 明顯與其有關係的 ---
+||loongteam.com^
+! ||china-bestmind.com^
+! ||i-bestmind.com^
+! ||t-bestmind.com^
+! ||himindtech.com^
+! ||fhss.com.cn^
+! ||hailiangyun.cn^
+! fiberhome有民用數據機路由器業务 而且與其柤關的app尚未直接link到fiberhome.com fiberhome.com.cn 因此未被封鎖
+! ||fiberhome.com^
+! ||fiberhome.com.cn^
+
+! ----- $app=com.bjxz.srhy -----
+! app.name.zh=实人核验/实人核验平台
+! app.name.en=
+! app.hash.md5=85da85cdb10e501e79e02a0095acc487
+! https://www.virustotal.com/gui/file/d37c30ae70ac3a6a3cdf4c27e0afc67109c440849ac317bd57d799000b09bfae/
+$app=com.bjxz.srhy
+! 此app直接以ip連接後端server
+106.39.52.58$network
+||cmt7221.f3322.net^
+! 106.39.52.58 ---> cmt7221.f3322.net
+! f3322.net ---> 公云PubYun (no-ip chinese version?)
+! https://www.virustotal.com/gui/domain/cmt7221.f3322.net/relations
+123.59.129.164$network
+222.186.34.170$network
+! 上面兩個ip皆為cmt7221.f3322.net過往的解析ip
+! 關鍵字: 目標對象_全中國?
+
+! --- 明顯與其有關係的 ---
+! ||tendyron.com^
+
+! 柤關app
+! $app=
+
+! 關鍵字: #中國 #反自由 #中共 #反民主 #強迫安裝 #強制安裝
+
+! 認可我的努力 ETH: 0xcA9e4bb1bDdeB8316ba3cdc769a1a31C319073C3
+
+! 不自殺聲明 本人在此特地聲明 本人樂觀開朗 身體健康 故絕不可能做出任何看似自殺之行為 ^_^

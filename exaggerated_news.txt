@@ -1,0 +1,115 @@
+ # 『誇大不實網站』
+ # 格式: 終結內容農場
+ # https://github.com/danny0838/content-farm-terminator/issues/33#issuecomment-482924912
+ # 這份名單旨在提醒用户 故未有打算兼容其他adblocker格式
+ # 若長時間沒有再發表誇大不實內容 可申請下架
+
+ # ***壞榜樣***
+ # https://github.com/4111314/My-AdFilters-for-websites
+
+ # 蘋果日報
+ # 曲解受訪者原意 報導不實
+ # https://zh.wikipedia.org/zh-tw/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E5%8F%B0%E7%81%A3)#%E5%A0%B1%E5%B0%8E%E4%B8%8D%E5%AF%A6
+appledaily.com
+appledaily.com.hk
+appledaily.com.tw
+
+ # 法輪功
+minghui.org
+epochtimes.com
+epochtimes.com.tw
+epochweekly.com
+ntdtv.com
+ntdtv.com.tw
+ntdtv.org
+mhradio.org
+zhengwunet.org
+zhengjian.org
+dongtaiwang.com
+ultrasurf.us
+shenyundancer.com
+shenyunshop.com
+friendsofshenyun.org
+tianyinmusic.com
+shenyun.com
+shenyunperformingarts.org
+eoffering.org.tw
+newsancai.com
+xinsheng.net
+bannedbook.org
+wujieliulan.com
+soundofhope.org
+landofhope.tv
+fgmtv.org
+tiantibooks.org
+ippotv.com
+shu.best
+dafamedia.or.kr
+falungongbrasil.net
+falun.caltech.edu
+falundafa-sacramento.org
+faluninfo.jp
+falunworld.net
+falun-co.org
+falun-inlandnw.org
+falun-ne.org
+falun-ny.net
+falunart.org
+falunau.org
+falunaustin.org
+falunaz.net
+falunchicago.org
+falundafa-br.org
+falundafa-dc.org
+falundafa-nc.org
+falundafa-pa.net
+falundafa-sd.org
+falundafa-srilanka.org
+falundafa.ca
+falundafa.ch
+falundafa.de
+falundafa.gr
+falundafa.it
+falundafa.jp
+falundafa.or.kr
+falundafa.org
+falundafa.org.hk
+falundafa.org.il
+falundafa.org.nz
+falundafa.org.sg
+falundafa.org.tw
+falundafa.se
+falundafabooks.com
+falundafamuseum.com
+falundafamuseum.org
+falundafanevada.org
+falundafanorge.com
+falundafaradio.org
+falundafautah.org
+falungong-wa.org
+falungong.club
+falungong.cz
+falungong.de
+falungong.org.uk
+falunhr.org
+faluninfo.at
+faluninfo.de
+faluninfo.net
+faluninfo.ru
+falunorlando.org
+falunpilipinas.net
+falunthai.org
+infofalungong.net
+mnfalundafa.org
+nj-falundafa.org
+faluncanada.net
+falundafa.com
+falundafa.or.id
+falungonginfo.net
+faluninfo.nl
+worldfalundafaday.org
+falun-dafa.net
+faluninfo.or.kr
+ming-jian.net
+mhxw.club
+mh4u.org
