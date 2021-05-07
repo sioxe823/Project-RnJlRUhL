@@ -1,9 +1,9 @@
 # Project RnJlRUhL
 
- - chinese_thirdparty_tracker.txt **中共國追蹤器**
+ - chinese_thirdparty_tracker.txt **中共追蹤器**
 尚未完成
 
- - chinese_gov_forced_install.txt **中共國強迫民眾安裝追蹤app**
+ - chinese_gov_forced_install.txt **中共強迫民眾安裝追蹤app**
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
 #### [>>>中共國強迫民眾安裝追蹤app - Google相關搜索結果<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
 
@@ -53,12 +53,17 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [DuckDuckGo](https://duckduckgo.com/) 注重使用者隱私的搜尋引擎
 ### [ProtonMail (Web/Windows/Android/...)](https://protonmail.com/) 安全電子郵件服務
 ### [ProtonVPN (Windows/Android/...](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
+### [Mozilla VPN](https://www.mozilla.org/zh-TW/products/vpn/)
 ### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
 ### [NextDNS](https://nextdns.io/) 客製化的DNS服務
 ###### 提示: NextDNS已被中共封鎖 較能信任
 ### [F-Droid](https://www.f-droid.org/) Android App Store
 ### Intra [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
 ### Ethereum 去中心化的虛擬貨幣
+### [Firefox Relay](https://relay.firefox.com/) Mozilla推出的免費郵件轉寄服務
+### [Firefox Monitor](https://monitor.firefox.com/) 看看您是否也處於線上資料外洩事件之中
+### [Mozilla Common Voice](https://commonvoice.mozilla.org/)
+### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
 
 ---
 
@@ -72,6 +77,13 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [膜乎](https://mohu.rocks/)
 ### [流浪防区](https://www.reddit.com/r/China_irl/)
 ### [攝徒日記Fun TV](https://www.youtube.com/channel/UCvTe3Z7TZsjGzUERx4Ce6zA)
+
+---
+
+# 不推薦
+
+Cloudflare 1.1.1.1 / Cloudflare Warp 與百度有密切合作關係 而且1.1.1.1未被中共封鎖
+[參考_Google相關搜索結果](https://www.google.com/search?q=site:cloudflare.com%20OR%20site:1.1.1.1%20china%20OR%20chinese%20OR%20baidu)
 
 ---
 
