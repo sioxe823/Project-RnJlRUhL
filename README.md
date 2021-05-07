@@ -52,10 +52,12 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
 ### [台灣公視P#新聞實驗室](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
 ### [Signal](https://signal.org/zh_TW/) 跨平台加密訊息服務
+### [有線新聞 CABLE News](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w)
 ---
 ### [新·品葱](https://pincong.rocks/)
 ### [膜乎](https://mohu.rocks/)
 ### [流浪防区](https://www.reddit.com/r/China_irl/)
+### [攝徒日記Fun TV](https://www.youtube.com/channel/UCvTe3Z7TZsjGzUERx4Ce6zA)
 
 ![image](https://user-images.githubusercontent.com/83683882/117411041-bccba900-af45-11eb-9999-aa6ff6e52c58.png)
 
