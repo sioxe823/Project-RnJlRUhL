@@ -7,8 +7,8 @@
 [>>>Google相關搜索結果<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
 
- - hongkong_gov_advanced.txt **香港政府追蹤器_進階**
- 沒有採用民眾較能接受的Google-Apple Exposure Notifications API🙄👎🏼
+ - hongkong_gov_advanced.txt **香港政府追蹤器_進階** 👍🏼
+ 安心出行沒有採用民眾較能接受的Google-Apple Exposure Notifications API🙄👎🏼
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_advanced.txt
  
  - hongkong_gov_extreme.txt **香港政府追蹤器_激進**
@@ -19,7 +19,6 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_extreme.txt
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
 
-# 推薦
 ## 優秀的網路黑名單
 **遠離共媒** https://github.com/festum/anti-bias-media/
 
