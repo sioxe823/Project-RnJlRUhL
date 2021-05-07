@@ -4,9 +4,8 @@
 尚未完成
 
  - chinese_gov_forced_install.txt **中共國強迫民眾安裝追蹤app**
-[>>>Google相關搜索結果_1<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
-[>>>Google相關搜索結果_2<<<](https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
-https://www.google.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83+OR+%E5%85%A8%E6%B0%91%E5%8F%8D%E8%AF%88+OR+%E5%8F%8D%E8%AF%88%E8%81%94%E7%9B%9F)
+[>>>Google相關搜索結果<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
+https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
 
 ### 強迫安裝bad👎🏼
 
@@ -22,13 +21,23 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_extreme.txt
 請配合「終結內容農場」使用
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
-
+# 推薦
 ## 優秀的網路黑名單
 ### **遠離共媒** https://github.com/festum/anti-bias-media/
 
 ## 優秀的瀏覽器套件
 ### **終結內容農場** https://github.com/danny0838/content-farm-terminator/
 [終結內容農場_chrome&chromium](https://chrome.google.com/webstore/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl)   /   [終結內容農場_firefox](https://addons.mozilla.org/zh-TW/firefox/addon/content-farm-terminator/)
+
+### [GreatFire](https://zh.greatfire.org/analyzer) 即時測試特定網站或關鍵字是否遭到防火長城封鎖
+GreatFire新開發的測試前端Blocky https://blocky.greatfire.org/
+
+### [Tor瀏覽器](https://www.torproject.org/)
+### [Brave瀏覽器](https://brave.com/)
+### [ProtonMail](https://protonmail.com/) 安全電子郵件服務
+### [ProtonVPN](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
+### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker
+
 
 # 認可我的努力?
 ##### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
