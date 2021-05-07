@@ -38,16 +38,17 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 [Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/clearurls/)
 
 ---
-### [GreatFire](https://zh.greatfire.org/analyzer) 即時測試特定網站或關鍵字是否遭到防火長城封鎖
+### [OONI Probe](https://ooni.org/) 網路審查偵測程式
+### [GreatFire](https://zh.greatfire.org/analyzer) 測試網站或關鍵字是否遭到防火長城封鎖
 GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
-
-### [Tor瀏覽器](https://www.torproject.org/)
-### [Brave瀏覽器](https://brave.com/)
+### [DuckDuckGo](https://duckduckgo.com/) 注重使用者隱私的搜尋引擎
+### [Tor瀏覽器](https://www.torproject.org/) 匿名瀏覽器
+### [Brave瀏覽器](https://brave.com/) 注重使用者隱私的瀏覽器
+### [Firefox](https://www.mozilla.org/zh-TW/firefox/new/) 注重使用者隱私的瀏覽器
 ### [ProtonMail](https://protonmail.com/) 安全電子郵件服務
 ### [ProtonVPN](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
 ### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
 ### [台灣公視P#新聞實驗室](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
-### [OONI Probe](https://ooni.org/) 網路審查偵測程式
 ---
 ### [新·品葱](https://pincong.rocks/)
 ### [膜乎](https://mohu.rocks/)
