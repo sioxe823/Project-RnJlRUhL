@@ -1,5 +1,4 @@
 # Project RnJlRUhL
-# Project RnJlRUhL
 
  - chinese_thirdparty_tracker.txt **中共國追蹤器**
 尚未完成
@@ -16,7 +15,7 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_advanced.txt
  - hongkong_gov_extreme.txt **香港政府追蹤器_激進**
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_extreme.txt
 
-### **香港政府的安心出行沒有採用民眾較能接受的[Google-Apple Exposure Notifications API](https://www.google.com/covid19/exposurenotifications/)🙄👎🏼**
+##### **香港政府的安心出行沒有採用民眾較能接受的[Google-Apple Exposure Notifications API](https://www.google.com/covid19/exposurenotifications/)🙄👎🏼**
 ##### [Exposure Notification | Apple Developer Documentation](https://developer.apple.com/documentation/exposurenotification)
 
  - exaggerated_news.txt **誇大不實網站** 
