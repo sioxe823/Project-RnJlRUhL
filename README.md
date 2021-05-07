@@ -1,4 +1,5 @@
 # Project RnJlRUhL
+# Project RnJlRUhL
 
  - chinese_thirdparty_tracker.txt **中共國追蹤器**
 尚未完成
@@ -40,24 +41,27 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 [Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/clearurls/)
 
 ---
-### [OONI Probe](https://ooni.org/) 網路審查偵測程式
+### [OONI Probe (Windows/Android/Linux/iOS/MacOS)](https://ooni.org/) 網路審查偵測程式 [Google Play](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) [F-Droid](https://f-droid.org/zh_Hant/packages/org.openobservatory.ooniprobe)
 ### [GreatFire](https://zh.greatfire.org/analyzer) 測試網站或關鍵字是否遭到防火長城封鎖
 GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [DuckDuckGo](https://duckduckgo.com/) 注重使用者隱私的搜尋引擎
 ### [Tor瀏覽器](https://www.torproject.org/) 匿名瀏覽器
 ### [Brave瀏覽器](https://brave.com/) 注重使用者隱私的瀏覽器
 ### [Firefox](https://www.mozilla.org/zh-TW/firefox/new/) 注重使用者隱私的瀏覽器
-### [ProtonMail](https://protonmail.com/) 安全電子郵件服務
-### [ProtonVPN](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
+### [ProtonMail (Web/Windows/Android/...)](https://protonmail.com/) 安全電子郵件服務
+### [ProtonVPN (Windows/Android/...](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
 ### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
 ### [台灣公視P#新聞實驗室](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
 ### [Signal](https://signal.org/zh_TW/) 跨平台加密訊息服務
-### [有線新聞 CABLE News](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w)
+### 香港有線新聞 CABLE News [Youtube](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w) / [官網](http://cablenews.i-cable.com/ci/home)
+### [F-Droid](https://www.f-droid.org/) android app store
 ---
 ### [新·品葱](https://pincong.rocks/)
 ### [膜乎](https://mohu.rocks/)
 ### [流浪防区](https://www.reddit.com/r/China_irl/)
 ### [攝徒日記Fun TV](https://www.youtube.com/channel/UCvTe3Z7TZsjGzUERx4Ce6zA)
+---
+### Intra [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
 
 ![image](https://user-images.githubusercontent.com/83683882/117411041-bccba900-af45-11eb-9999-aa6ff6e52c58.png)
 
