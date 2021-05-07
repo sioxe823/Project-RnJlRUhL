@@ -26,3 +26,5 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 **終結內容農場** https://github.com/danny0838/content-farm-terminator/
 [終結內容農場_chrome&chromium](https://chrome.google.com/webstore/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl)   /   [終結內容農場_firefox](https://addons.mozilla.org/zh-TW/firefox/addon/content-farm-terminator/)
 
+# 認可我的努力?
+##### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
