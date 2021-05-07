@@ -16,6 +16,7 @@
 ! ***** 只包含強迫安裝的app *****
 ! google有关search result
 ! https://www.google.com/search?q=inurl:v2ex.com/t+OR+inurl:pincong.rocks/article+OR+site:mohu.rocks+%E5%8F%8D%E8%AF%88
+! https://www.google.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83+OR+%E5%85%A8%E6%B0%91%E5%8F%8D%E8%AF%88+OR+%E5%8F%8D%E8%AF%88%E8%81%94%E7%9B%9F
 ! 如果域規則或ip規則的前面帶有註釋符號 則表示不確定
 
 ! ----- $app=com.fiberhome.wifiserver -----

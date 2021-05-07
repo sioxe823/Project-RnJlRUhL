@@ -4,8 +4,9 @@
 尚未完成
 
  - chinese_gov_forced_install.txt **中共國強迫民眾安裝追蹤app**
-[>>>Google相關搜索結果<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
-https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
+[>>>Google相關搜索結果_1<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
+[>>>Google相關搜索結果_2<<<](https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
+https://www.google.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83+OR+%E5%85%A8%E6%B0%91%E5%8F%8D%E8%AF%88+OR+%E5%8F%8D%E8%AF%88%E8%81%94%E7%9B%9F)
 
 ### 強迫安裝bad👎🏼
 
