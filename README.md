@@ -72,6 +72,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### ESET 來自斯洛伐克的防毒軟體
 ###### 提示_1: ESET未被中共封鎖 且仍可以在淘寶購買正版代理的產品key 有一定風險
 ###### 提示_2: 中港台總代理皆為Version 2 Limited
+** >>>取得一個月試用資格 https://my.eset.com/refer-friend/WMXASCM2 <<< **
 
 ### Bitdefender 來自羅馬尼亞的防毒軟體
 
