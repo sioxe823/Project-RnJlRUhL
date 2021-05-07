@@ -1,0 +1,14 @@
+! ----- leavehomesafe -----
+leavehomesafe.gov.hk/site.json
+||app.regqr.gov.hk^
+||app1.regqr.gov.hk^
+||app2.regqr.gov.hk^
+||www1.regqr.gov.hk^
+||www2.regqr.gov.hk^
+regqr.gov.hk/app
+202.128.226.49$network
+202.128.226.161$network
+! --- leavehomesafe開發商 ---
+$app=hk.gov.ogcio.leavehomesafe
+||regqr.gov.hk^$third-party
+||leavehomesafe.gov.hk^$third-party
