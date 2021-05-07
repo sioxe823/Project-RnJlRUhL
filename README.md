@@ -38,6 +38,11 @@ GreatFire新開發的測試前端Blocky https://blocky.greatfire.org/
 ### [ProtonVPN](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
 ### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker
 
+![image](https://user-images.githubusercontent.com/83683882/117411041-bccba900-af45-11eb-9999-aa6ff6e52c58.png)
+
+![image](https://user-images.githubusercontent.com/83683882/117409898-4ed2b200-af44-11eb-9c98-fc8234105805.png)
+
+![image](https://user-images.githubusercontent.com/83683882/117410296-d3bdcb80-af44-11eb-9ba9-78236ec6cd7f.png)
 
 # 認可我的努力?
 ##### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
