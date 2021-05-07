@@ -97,11 +97,14 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 #### Cloudflare 1.1.1.1 / Cloudflare Warp 與百度有密切合作關係 而且1.1.1.1未被中共封鎖
 [參考_Google相關搜索結果](https://www.google.com/search?q=site:cloudflare.com%20OR%20site:1.1.1.1%20china%20OR%20chinese%20OR%20baidu)
 
-#### Kaspersky 來自俄羅斯的防毒軟體
+#### Kaspersky & NorthGuard 來自俄羅斯的防毒軟體
+##### NorthGuard
 
 #### 台灣華碩ASUS 過度親共 吃相難看
 
 #### 旺旺及旗下新聞媒體 過度親共 吃相難看
+
+#### Avast & AVG 販賣使用者資料
 
 ---
 
