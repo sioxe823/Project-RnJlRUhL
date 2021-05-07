@@ -26,12 +26,16 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 ### **遠離共媒** **遠離紅媒** https://github.com/festum/anti-bias-media/
 
 ## 優秀的瀏覽器套件
-### **終結內容農場** https://github.com/danny0838/content-farm-terminator/
+### [終結內容農場](https://github.com/danny0838/content-farm-terminator/)
 [Chrome](https://chrome.google.com/webstore/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl)   /   [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/content-farm-terminator/)
 ### [uBO-Scope](https://chrome.google.com/webstore/detail/ubo-scope/bbdpgcaljkaaigfcomhidmneffjjjfgp)
 ### [Snowflake](https://snowflake.torproject.org/)
+[Chrome](https://chrome.google.com/webstore/detail/snowflake/mafpmfcccpbjnhfhjnllmmalhifmlcie) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/torproject-snowflake/)
 ### [Privacy Badger](https://privacybadger.org/)
 [Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/privacy-badger17/)
+
+### [ClearURLs](https://clearurls.xyz/)
+[Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/clearurls/)
 
 ---
 ### [GreatFire](https://zh.greatfire.org/analyzer) 即時測試特定網站或關鍵字是否遭到防火長城封鎖
