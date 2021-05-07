@@ -7,13 +7,15 @@
 [>>>Google相關搜索結果<<<](https://www.google.com/search?q=inurl:v2ex.com/t%20OR%20inurl:pincong.rocks/article%20OR%20site:mohu.rocks%20%E5%8F%8D%E8%AF%88)
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install.txt
 
+### 強迫安裝bad👎🏼
+
  - hongkong_gov_advanced.txt **香港政府追蹤器_進階** 👍🏼
- 
- 安心出行沒有採用民眾較能接受的Google-Apple Exposure Notifications API🙄👎🏼
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_advanced.txt
  
  - hongkong_gov_extreme.txt **香港政府追蹤器_激進**
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_extreme.txt
+
+### **安心出行沒有採用民眾較能接受的Google-Apple Exposure Notifications API🙄👎🏼👎🏼👎🏼**
 
  - exaggerated_news.txt **誇大不實網站** 
 請配合「終結內容農場」使用
