@@ -23,5 +23,9 @@
 ||gepush.com^
 ||getui.com^
 
-! "Lookout警告，中國製的Igexin行動廣告SDK的某些版本含有惡意外掛程式下載功能，可能危及行動用戶的隱私"
+! Igexin
 ||igexin.com^
+
+! 网易七鱼
+||qiyukf.com^
+||qiyukf.net^

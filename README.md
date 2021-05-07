@@ -41,6 +41,8 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 ### [ClearURLs](https://clearurls.xyz/)
 [Chrome](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/clearurls/)
 
+### [Decentraleyes](https://decentraleyes.org/) Chrome Firefox
+
 ---
 
 ### [Signal](https://signal.org/zh_TW/) 跨平台加密訊息服務
@@ -62,8 +64,16 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### Ethereum 去中心化的虛擬貨幣
 ### [Firefox Relay](https://relay.firefox.com/) Mozilla推出的免費郵件轉寄服務
 ### [Firefox Monitor](https://monitor.firefox.com/) 看看您是否也處於線上資料外洩事件之中
-### [Mozilla Common Voice](https://commonvoice.mozilla.org/)
+### [Mozilla Common Voice](https://commonvoice.mozilla.org/) Common Voice是Mozilla想讓機器學會真人說話方式的專案
 ### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
+
+---
+
+### ESET 來自斯洛伐克的防毒軟體
+###### 提示_1: ESET未被中共封鎖 且仍可以在淘寶購買正版代理的產品key 有一定風險
+###### 提示_2: 中港台總代理皆為Version 2 Limited
+
+### Bitdefender 來自羅馬尼亞的防毒軟體
 
 ---
 
@@ -77,13 +87,20 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [膜乎](https://mohu.rocks/)
 ### [流浪防区](https://www.reddit.com/r/China_irl/)
 ### [攝徒日記Fun TV](https://www.youtube.com/channel/UCvTe3Z7TZsjGzUERx4Ce6zA)
+### [老外看中國、老外看台灣](https://www.youtube.com/channel/UCZZslGLyRd2rbnF07SVoouA)
 
 ---
 
 # 不推薦
 
-Cloudflare 1.1.1.1 / Cloudflare Warp 與百度有密切合作關係 而且1.1.1.1未被中共封鎖
+#### Cloudflare 1.1.1.1 / Cloudflare Warp 與百度有密切合作關係 而且1.1.1.1未被中共封鎖
 [參考_Google相關搜索結果](https://www.google.com/search?q=site:cloudflare.com%20OR%20site:1.1.1.1%20china%20OR%20chinese%20OR%20baidu)
+
+#### Kaspersky 來自俄羅斯的防毒軟體
+
+#### 台灣華碩ASUS 過度親共 吃相難看
+
+#### 旺旺及旗下新聞媒體 過度親共 吃相難看
 
 ---
 
