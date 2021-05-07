@@ -8,3 +8,5 @@ $app=hk.gov.ogcio.leavehomesafe
 ||arwiz.cn^
 ||cherrypicks.com^
 ||arwiz.co^
+
+! 認可我的努力? ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
