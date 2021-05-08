@@ -94,8 +94,8 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 
 # 不推薦
 
-#### Cloudflare 1.1.1.1 / Cloudflare Warp 與百度有密切合作關係 而且1.1.1.1未被中共封鎖
-[參考_Google相關搜索結果](https://www.google.com/search?q=site:cloudflare.com%20OR%20site:1.1.1.1%20china%20OR%20chinese%20OR%20baidu)
+#### Cloudflare 1.1.1.1 / Cloudflare Warp 與百度&京東有密切合作關係 而且1.1.1.1未被中共封鎖
+[參考_Google相關搜索結果](https://www.google.com/search?q=site%3Acloudflare.com+OR+site%3A1.1.1.1+china+OR+chinese+OR+baidu+OR+jd)
 
 #### Kaspersky & NorthGuard 來自俄羅斯的防毒軟體
 ##### NorthGuard
