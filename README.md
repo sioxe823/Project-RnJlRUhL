@@ -94,7 +94,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 
 # 不推薦
 
-#### Cloudflare 1.1.1.1 / Cloudflare Warp 與百度&京東有密切合作關係 而且1.1.1.1未被中共封鎖
+#### Cloudflare 1.1.1.1 / Cloudflare Warp 與百度&京東(JD Cloud)有密切合作關係 而且1.1.1.1未被中共封鎖
 [參考_Google相關搜索結果](https://www.google.com/search?q=site%3Acloudflare.com+OR+site%3A1.1.1.1+china+OR+chinese+OR+baidu+OR+jd)
 
 #### Kaspersky & NorthGuard 來自俄羅斯的防毒軟體
@@ -115,4 +115,4 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ![image](https://user-images.githubusercontent.com/83683882/117410296-d3bdcb80-af44-11eb-9ba9-78236ec6cd7f.png)
 
 # 認可我的努力?
-##### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
+###### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd

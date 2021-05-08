@@ -17,6 +17,7 @@
 ||adash.man.aliyuncs.com^
 
 ! 腾讯Bugly
+! tencent
 ||bugly.qq.com^
 
 ! 个推
@@ -27,5 +28,6 @@
 ||igexin.com^
 
 ! 网易七鱼
+! netease
 ||qiyukf.com^
 ||qiyukf.net^
