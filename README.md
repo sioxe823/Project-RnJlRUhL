@@ -98,7 +98,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 [參考_Google相關搜索結果](https://www.google.com/search?q=site%3Acloudflare.com+OR+site%3A1.1.1.1+china+OR+chinese+OR+baidu+OR+jd)
 
 #### Kaspersky & NorthGuard 來自俄羅斯的防毒軟體
-##### NorthGuard
+##### NorthGuard好像是洗白用的
 
 #### 台灣華碩ASUS 過度親共 吃相難看
 
