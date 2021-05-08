@@ -10,6 +10,9 @@
 ! ||umengacs.m.taobao.com^
 ||umeng*.taobao.com^
 ||umeng*.*.taobao.com^
+! stats.umsns.com
+! log.umsns.com
+||umsns.com^
 
 ! 阿里云移动数据分析
 ! #Aliyun #Alibaba
