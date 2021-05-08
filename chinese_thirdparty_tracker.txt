@@ -31,3 +31,7 @@
 ! Netease
 ||qiyukf.com^
 ||qiyukf.net^
+
+! 
+||orbit.jd.com^
+||orbit.jd.com.gslb.qianxun.com^
