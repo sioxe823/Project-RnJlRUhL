@@ -8,7 +8,7 @@ leavehomesafe.gov.hk/site.json
 regqr.gov.hk/app
 202.128.226.49$network
 202.128.226.161$network
-! --- 安心出行開發商 ---
+! --- 安心出行_開發商 ---
 $app=hk.gov.ogcio.leavehomesafe
 ||regqr.gov.hk^$third-party
 ||leavehomesafe.gov.hk^$third-party

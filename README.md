@@ -115,4 +115,4 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ![image](https://user-images.githubusercontent.com/83683882/117410296-d3bdcb80-af44-11eb-9ba9-78236ec6cd7f.png)
 
 # 認可我的努力?
-###### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
+##### ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd

@@ -1,5 +1,5 @@
-! 友盟 umeng
-! #alibaba
+! 友盟 Umeng
+! #Alibaba
 ||umeng.com^
 ||umengcloud.com^
 ! ||umengcloud.com.gds.alibabadns.com^
@@ -12,12 +12,12 @@
 ||umeng*.*.taobao.com^
 
 ! 阿里云移动数据分析
-! #aliyun #alibaba
+! #Aliyun #Alibaba
 ||adash-new.man.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 
 ! 腾讯Bugly
-! tencent
+! Tencent
 ||bugly.qq.com^
 
 ! 个推
@@ -28,6 +28,6 @@
 ||igexin.com^
 
 ! 网易七鱼
-! netease
+! Netease
 ||qiyukf.com^
 ||qiyukf.net^
