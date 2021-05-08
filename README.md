@@ -66,6 +66,8 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [Firefox Monitor](https://monitor.firefox.com/) 看看您是否也處於線上資料外洩事件之中
 ### [Mozilla Common Voice](https://commonvoice.mozilla.org/) Common Voice是Mozilla想讓機器學會真人說話方式的專案
 ### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
+### [Quad101 DNS (101.101.101.101)](https://101.101.101.101/) 台灣網路資訊中心 ip: 101.101.101.101 DOH: https://dns.twnic.tw/dns-query
+### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
 
 ---
 
