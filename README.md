@@ -71,6 +71,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 即使你沒有在用華為小米 但亦都強烈建議你把它打開
 畢竟廣告是小米的最大營收點之一.....
 > 2020 Q2 小米廣告業務營收人民幣31億元，年增23.2%
+
 ![image](https://user-images.githubusercontent.com/83683882/117530567-755e1f00-b010-11eb-9259-4becc1119508.png)
 
 ---
