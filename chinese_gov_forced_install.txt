@@ -73,7 +73,7 @@ $app=com.bestmind.antifraud
 ! ||himindtech.com^
 ! ||fhss.com.cn^
 ! ||hailiangyun.cn^
-! fiberhome有民用數據機路由器業务 而且與其柤關的app尚未直接link到fiberhome.com fiberhome.com.cn 因此未被封鎖
+! fiberhome有民用數據機/路由器業务 而且與其柤關的app尚未直接link到fiberhome.com fiberhome.com.cn 因此未被封鎖
 ! ||fiberhome.com^
 ! ||fiberhome.com.cn^
 
