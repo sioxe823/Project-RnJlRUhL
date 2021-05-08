@@ -9,6 +9,8 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/chinese_gov_forced_install
 
 ### 強迫安裝bad👎🏼
 
+###### 如果有蜂採app的新消息 例如新版apk檔 也歡迎提交給我分析 謝謝
+
  - hongkong_gov_advanced.txt **香港政府追蹤器_進階** 👍🏼
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_advanced.txt
  
