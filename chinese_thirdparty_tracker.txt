@@ -35,6 +35,9 @@
 ||qiyukf.com^
 ||qiyukf.net^
 
-! 
+! 京東
 ||orbit.jd.com^
 ||orbit.jd.com.gslb.qianxun.com^
+
+! Tiktok
+is.snssdk.com
