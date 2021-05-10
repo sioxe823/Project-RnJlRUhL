@@ -69,7 +69,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
 ### [Quad101 DNS (101.101.101.101)](https://101.101.101.101/) 台灣網路資訊中心 ip: 101.101.101.101 DOH: https://dns.twnic.tw/dns-query
 ### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
-### [NextDNS](https://nextdns.io/) 客製化的DNS服務
+### [NextDNS](https://nextdns.io/) 客製化的DNS服務 Firefox認証
 即使你沒有在用華為小米 但亦都強烈建議你把它打開
 畢竟廣告是小米的最大營收點之一.....
 > 2020 Q2 小米廣告業務營收人民幣31億元，年增23.2%
