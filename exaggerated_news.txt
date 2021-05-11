@@ -11,11 +11,10 @@
 *.gov.cn
 *cgtn*.*
 cgtn.com
-cctv.com
-cctv.com.cn
-cntv.cn
 cgtnnow.com
 c-radio.com.au
+ # 央视频融媒体发展有限公司
+yangshipin.cn
  # 中国国际广播电台
 cri.cn
 readingchinese.cn
@@ -198,6 +197,8 @@ cctvnc.cn
 /^(http|https)+\:\/\/.*youtube.com\/user\/childrenchannelify/
 /^(http|https)+\:\/\/.*youtube.com\/user\/jinrishuofa/
 /^(http|https)+\:\/\/.*youtube.com\/channel\/UC3vYoqyUwy1dgK9LawziBig/
+/^(http|https)+\:\/\/.*youtube.com\/channel\/UCgrNz-aDmcr2uuto8\_DL2jg/
+/^(http|https)+\:\/\/.*youtube.com\/channel\/UUCnAsZ46UTeFEgwOEwMezngQ/
  # 共媒_FB (未完成)
 /^(http|https)+\:\/\/.*facebook\.com\/cgtnamerica/
 /^(http|https)+\:\/\/.*facebook\.com\/ChinaGlobalTVNetwork/

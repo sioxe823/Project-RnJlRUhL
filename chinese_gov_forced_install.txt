@@ -46,6 +46,7 @@ $app=com.hicorenational.antifraud
 ||fz96110.com^
 ||chanct.ltd^
 ! --- 由同一人註冊_完 ---
+||appbushou.com^
 ! 關鍵字: 目標對象_全中國
 
 ! ----- $app=com.bestmind.antifraud -----

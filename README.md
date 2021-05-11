@@ -59,7 +59,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [ProtonVPN (Windows/Android/...](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
 ### [Mozilla VPN](https://www.mozilla.org/zh-TW/products/vpn/)
 ### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
-###### 提示: NextDNS已被中共封鎖 較能信任
+##### 提示: NextDNS已被中共封鎖/干擾 較能信任
 ### [F-Droid](https://www.f-droid.org/) Android App Store
 ### Intra [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
 ### Ethereum 去中心化的虛擬貨幣
@@ -69,7 +69,9 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
 ### [Quad101 DNS (101.101.101.101)](https://101.101.101.101/) 台灣網路資訊中心 ip: 101.101.101.101 DOH: https://dns.twnic.tw/dns-query
 ### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
-### [NextDNS](https://nextdns.io/) 客製化的DNS服務 Firefox認証
+### [NextDNS] 客製化的DNS服務 **Firefox認証**
+#### ** >>>通過我的推薦連結申請使用 https://nextdns.io/?from=w83j3kfk <<< **
+
 即使你沒有在用華為小米 但亦都強烈建議你把它打開
 畢竟廣告是小米的最大營收點之一.....
 > 2020 Q2 小米廣告業務營收人民幣31億元，年增23.2%
