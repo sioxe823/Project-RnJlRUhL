@@ -1,11 +1,11 @@
  # 『誇大不實網站』
  # 格式: 終結內容農場
- # https://github.com/danny0838/content-farm-terminator/issues/33#issuecomment-482924912
+ # github.com/danny0838/content-farm-terminator/issues/33#issuecomment-482924912
  # 這份名單旨在提醒用户 故未有打算兼容其他adblocker格式
  # 若網站長時間沒有再發表誇大不實內容 可申請下架
 
  # **壞榜樣**
- # https://github.com/4111314/My-AdFilters-for-websites
+ # github.com/4111314/My-AdFilters-for-websites
 
  # ----- 共媒/紅媒/中資媒體 -----
 *.gov.cn
@@ -64,12 +64,19 @@ facebook.com/ChinaGlobalTVNetwork
  # 共媒_Twitter (未完成)
 twitter.com/cgtneurope
 twitter.com/cgtnofficial
+twitter.com/cctv
+twitter.com/cctvnews
+twitter.com/cgtnamerica
+twitter.com/liuxininbeijing
+twitter.com/cgtnglobalbiz
+twitter.com/cgtnafrica
+twitter.com/cctvasiapacific
 
  # ----- 共媒/紅媒_end -----
 
  # 蘋果日報
  # 曲解受訪者原意 報導不實
- # 蘋果日報_wiki https://zh.wikipedia.org/zh-tw/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E5%8F%B0%E7%81%A3)#%E5%A0%B1%E5%B0%8E%E4%B8%8D%E5%AF%A6
+ # 蘋果日報_wiki zh.wikipedia.org/zh-tw/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E5%8F%B0%E7%81%A3)#%E5%A0%B1%E5%B0%8E%E4%B8%8D%E5%AF%A6
  # 若港澳台發生社會運動 會考慮臨時下架蘋果日報
 appledaily.com
 appledaily.com.hk
@@ -86,9 +93,9 @@ nxtdig.com.hk
  # 蘋果日報_Twitter (未完成)
 
  # 法輪功 氣功修煉法
- # 法輪功_wiki https://zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BD%AE%E5%8A%9F
- # Antiscience_wiki_en https://en.wikipedia.org/wiki/Antiscience
- # Antiscience_wiki_zh https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E7%A7%91%E5%AD%B8
+ # 法輪功_wiki zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BD%AE%E5%8A%9F
+ # Antiscience_wiki_en en.wikipedia.org/wiki/Antiscience
+ # Antiscience_wiki_zh zh.wikipedia.org/zh-tw/%E5%8F%8D%E7%A7%91%E5%AD%B8
 *falun*.*
 minghui.org
 epochtimes.com
@@ -236,6 +243,21 @@ youtube.com/user/NewsWeekNTD
 youtube.com/user/NTDNewsClick
 youtube.com/user/NTDChineseFood
 youtube.com/user/NTDCHINESJK1
- # 法輪功__Twitter (未完成)
+ # 法輪功__Twitter
+twitter.com/thxforfalundafa
+twitter.com/realzhengjian
+twitter.com/falungong_info
+twitter.com/tai66314934
+twitter.com/r97139360
+twitter.com/wendywe19633267
+twitter.com/iqcnkloaoppawht
+twitter.com/susanrbt2
+twitter.com/wu42603244
+twitter.com/jonahparexion
+twitter.com/lihongzhico
+twitter.com/whvgh
+twitter.com/susanrbt5
+twitter.com/tan17336934
+twitter.com/dafastory
 
  # 認可我的努力? ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
