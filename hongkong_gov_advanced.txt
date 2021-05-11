@@ -1,5 +1,5 @@
 ! ----- 安心出行 -----
-leavehomesafe.gov.hk/site.json
+||leavehomesafe.gov.hk/site.json
 ||app.regqr.gov.hk^
 ||app1.regqr.gov.hk^
 ||app2.regqr.gov.hk^
