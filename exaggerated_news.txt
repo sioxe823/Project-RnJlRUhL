@@ -61,7 +61,7 @@ youtube.com/channel/UC3vYoqyUwy1dgK9LawziBig
 facebook.com/cgtnamerica
 facebook.com/ChinaGlobalTVNetwork
 
- # 共媒_Twitter (未完成)
+ # 共媒_Twitter
 twitter.com/cgtneurope
 twitter.com/cgtnofficial
 twitter.com/cctv
@@ -266,5 +266,9 @@ twitter.com/whvgh
 twitter.com/susanrbt5
 twitter.com/tan17336934
 twitter.com/dafastory
+twitter.com/www_minghuiorg
+twitter.com/flminhuiwang
+twitter.com/xialili2012
+twitter.com/whvgh
 
  # 認可我的努力? ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
