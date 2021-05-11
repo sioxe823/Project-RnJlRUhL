@@ -3,14 +3,74 @@
  # https://github.com/danny0838/content-farm-terminator/issues/33#issuecomment-482924912
  # 這份名單旨在提醒用户 故未有打算兼容其他adblocker格式
  # 若網站長時間沒有再發表誇大不實內容 可申請下架
- # 若港澳台發生社會運動 會考慮臨時下架蘋果日報
 
  # **壞榜樣**
  # https://github.com/4111314/My-AdFilters-for-websites
 
+ # ----- 共媒/紅媒/中資媒體 -----
+*.gov.cn
+*cgtn*.*
+cgtn.com
+cctv.com
+cctv.com.cn
+cntv.cn
+people.com.cn
+cgtnnow.com
+ # 共媒_youtube
+youtube.com/channel/UCj7wKsOBhRD9Jy4yahkMRMw
+youtube.com/channel/UCcLK3j-XWdGBnt5bR9NJHaQ
+youtube.com/user/CCTVNEWSbeijing
+youtube.com/channel/UCfv35fnCnT_h2HEaTFnn4Ng
+youtube.com/channel/UCd94YCD7yp6d-YZSRYWyeFA
+youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg
+youtube.com/user/CCTVFrench
+youtube.com/channel/UCQmJk0ErE_FiorcLBsDKORA
+youtube.com/channel/UCKPX70w5skEeSZbTMHYYUZw
+youtube.com/channel/UCo3yzLR4qYurIVsQeAcqJiA
+youtube.com/channel/UC2QWHeJ0VmmsGQ8UjbcGRkQ
+youtube.com/user/CCTVAmerica1
+youtube.com/channel/UCA2WHG4EpVqul3TYjAF0k2A
+youtube.com/channel/UCGCsFyghQsUU-lBAO64T17g
+youtube.com/user/CCTVAFRICALIVE
+youtube.com/channel/UCKPP9QtpcvkfLGJgSWjWVQQ
+youtube.com/user/BizAsiaAmerica
+youtube.com/user/cctvamericasnow
+youtube.com/channel/UCscahG0n1dztYmzTEjkcunA
+youtube.com/user/cctvch
+youtube.com/user/documentarycntv
+youtube.com/user/zhongguohaogequ
+youtube.com/user/kejiaotv
+youtube.com/user/Internationalcntv
+youtube.com/user/springfestivalgala
+youtube.com/user/entcntv
+youtube.com/channel/UC3HLhJGcc_0Vse2UncGnxcQ
+youtube.com/user/theateronair
+youtube.com/user/financecntv
+youtube.com/user/artisticlifeOfficial
+youtube.com/user/baijiajiangtanTV
+youtube.com/user/kanjiancntv
+youtube.com/user/militarycntv
+youtube.com/channel/UC7Vl0YiY0rDlovqcCFN4yTA
+youtube.com/user/approachinscience
+youtube.com/user/kaijiangla
+youtube.com/user/dailydietofficia
+youtube.com/user/childrenchannelify
+youtube.com/user/jinrishuofa
+youtube.com/channel/UC3vYoqyUwy1dgK9LawziBig
+ # 共媒_FB (未完成)
+facebook.com/cgtnamerica
+facebook.com/ChinaGlobalTVNetwork
+
+ # 共媒_Twitter (未完成)
+twitter.com/cgtneurope
+twitter.com/cgtnofficial
+
+ # ----- 共媒/紅媒_end -----
+
  # 蘋果日報
  # 曲解受訪者原意 報導不實
- # https://zh.wikipedia.org/zh-tw/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E5%8F%B0%E7%81%A3)#%E5%A0%B1%E5%B0%8E%E4%B8%8D%E5%AF%A6
+ # 蘋果日報_wiki https://zh.wikipedia.org/zh-tw/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E5%8F%B0%E7%81%A3)#%E5%A0%B1%E5%B0%8E%E4%B8%8D%E5%AF%A6
+ # 若港澳台發生社會運動 會考慮臨時下架蘋果日報
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
@@ -19,9 +79,17 @@ omoplanet.com
 nextdigital.com.hk
 nextdigital.com.tw
 nxtdig.com.hk
+ # 蘋果日報_FB (未完成)
+
+ # 蘋果日報_youtube (未完成)
+
+ # 蘋果日報_Twitter (未完成)
 
  # 法輪功 氣功修煉法
-*falun*
+ # 法輪功_wiki https://zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BD%AE%E5%8A%9F
+ # Antiscience_wiki_en https://en.wikipedia.org/wiki/Antiscience
+ # Antiscience_wiki_zh https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E7%A7%91%E5%AD%B8
+*falun*.*
 minghui.org
 epochtimes.com
 epochtimes.com.tw
@@ -122,4 +190,52 @@ mhxw.club
 mh4u.org
  # 原來也是法輪功的人架設的... 若誤會了請告知一聲 謝謝
 tuidang.org
+ # 法輪功_FB
+facebook.com/NTDChinese
+facebook.com/ntdtv.com.tw
+facebook.com/ntdfriends
+facebook.com/NTDInternationalPianoCompetition
+facebook.com/NTDCAChinese
+facebook.com/ntdoilpainting
+facebook.com/NewsWeekNTD
+facebook.com/NTDatHsinchu
+facebook.com/NTDtvMartialArts
+facebook.com/francentdtv
+facebook.com/ntdtvVocal
+facebook.com/www.minghui.org
+facebook.com/falunHK
+facebook.com/falungongmelbourne
+facebook.com/FalunGongClub
+facebook.com/*-108239801103697
+facebook.com/108239801103697
+facebook.com/FalunGong513
+facebook.com/*-1427366544202504
+facebook.com/1427366544202504
+facebook.com/*-100615995158903
+facebook.com/100615995158903
+facebook.com/9ronpyou.jp
+ # 法輪功_youtube
+youtube.com/user/FalunGongStories
+youtube.com/user/NTDCHINESE
+youtube.com/user/ntdsfad
+youtube.com/user/NTDTVJP
+youtube.com/user/NTDAPTV
+youtube.com/user/ChinaBreakingNewsTV
+youtube.com/channel/UCa7HsNwWh3EOP33cHAjgVjw
+youtube.com/user/NTDAmazingWorld
+youtube.com/user/ntdtvchinese3
+youtube.com/user/ChinaBreakingNewsCN
+youtube.com/user/ntdtvchinese2
+youtube.com/channel/UCBRcyI55pANUU4Ofia75yEg
+youtube.com/user/laowaiteachesenglish
+youtube.com/channel/UCYonTjSE3brksc-tOgMdeQw
+youtube.com/user/NTDChinaNewsChannel
+youtube.com/channel/UCwn0Z4uN7zBSZXDG0chK7wg
+youtube.com/user/NTDfoodparadise
+youtube.com/user/NewsWeekNTD
+youtube.com/user/NTDNewsClick
+youtube.com/user/NTDChineseFood
+youtube.com/user/NTDCHINESJK1
+ # 法輪功__Twitter (未完成)
+
  # 認可我的努力? ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
