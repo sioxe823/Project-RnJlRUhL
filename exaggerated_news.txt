@@ -392,6 +392,7 @@ tuidang.org
 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDNewsClick/
 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDChineseFood/
 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDCHINESJK1/
+/^(http|https)+\:\/\/.*youtube.com\/channel\/UCP48F9RgJL8iJEjRam21eWw/
  # 法輪功__Twitter
 /^(http|https)+\:\/\/.*twitter.com\/thxforfalundafa/
 /^(http|https)+\:\/\/.*twitter.com\/realzhengjian/
