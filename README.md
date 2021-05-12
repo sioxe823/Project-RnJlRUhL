@@ -1,6 +1,6 @@
 # Project RnJlRUhL
 
- - chinese_thirdparty_tracker.txt **中共追蹤器**
+ - chinese_thirdparty_tracker.txt **中共国第三方追蹤器**
 尚未完成
 
  - chinese_gov_forced_install.txt **中共強迫民眾安裝追蹤app**
