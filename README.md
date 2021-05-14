@@ -71,6 +71,9 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
 ### [NextDNS] 客製化的DNS服務 **Firefox認証**
 #### ** >>>通過我的推薦連結申請使用 https://nextdns.io/?from=w83j3kfk <<< **
+### [Exodus Privacy](https://reports.exodus-privacy.eu.org/en/) 分析apk嵌入的追踪器
+#### 立即搜索報告: https://reports.exodus-privacy.eu.org/en/
+#### 提交apk予分析 https://reports.exodus-privacy.eu.org/en/analysis/submit/
 
 即使你沒有在用華為小米 但亦都強烈建議你把它打開
 畢竟廣告是小米的最大營收點之一.....
