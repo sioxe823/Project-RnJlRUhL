@@ -48,8 +48,12 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 ---
 
 ### [Signal](https://signal.org/zh_TW/) 跨平台加密訊息服務
-### [台灣公視P#新聞實驗室](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
-### 香港有線新聞 CABLE News [Youtube](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w) / [官網](http://cablenews.i-cable.com/ci/home)
+### 台灣_公視P#新聞實驗室 [Youtube](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
+### 香港_眾新聞 Citizen News [官網](https://www.hkcnews.com/) / [Youtube](https://www.youtube.com/channel/UC7K4DBOzdITZFOjGkea_CCA) / [Facebook](https://www.facebook.com/hkcnews/)
+### 香港_有線新聞 CABLE News [官網](http://cablenews.i-cable.com/ci/home) / [Youtube](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w) / [Facebook](https://www.facebook.com/icable.news/)
+##### 有線中國組助理採訪主任黃麗萍接受傳媒訪問,表示4名空降管理層與新聞部關係敵對，她擔心新聞質素難以維持
+### 台灣_TODAY 看世界 (日本LINE_台灣?) [Yotube](https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw)
+### 台灣_關鍵評論網 The News Lens [官網](https://www.thenewslens.com/) / [Youtube](https://www.youtube.com/c/TheNewsLens) / [維基百科](https://zh.wikipedia.org/zh-tw/%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96%E7%B6%B2)
 ### [Google新聞](https://news.google.com/) 較FB好一點?
 ### [OONI Probe (Windows/Android/Linux/iOS/MacOS)](https://ooni.org/) 網路審查偵測程式 [Google Play](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) [F-Droid](https://f-droid.org/zh_Hant/packages/org.openobservatory.ooniprobe)
 ### [GreatFire](https://zh.greatfire.org/analyzer) 測試網站或關鍵字是否遭到防火長城封鎖
@@ -63,16 +67,16 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 #### [**>>> 通過我的推薦連結下載Adguard for Windows <<<**](https://download.adguard.com/d/31711/adguardInstaller.exe)
 #### [**>>> 通過我的推薦連結下載Adguard for Mac <<<**](https://download.adguard.com/d/31711/AdGuardInstaller.dmg)
 #### [**>>> 通過我的推薦連結下載Adguard for Android <<<**](https://download.adguard.com/d/31711/adguard.apk)
-##### 俄國團隊... 但Adguard真的是市面上最成熟的Adblocker👍🏼👍🏼👍🏼 (我用過這么多垃圾adblocker之后得出的...)
-##### 提示: Adguard未被中共封鎖 有一定風險
+##### 俄國團隊... **但Adguard真的是市面上最成熟的Adblocker👍🏼👍🏼👍🏼** (我用過這么多垃圾adblocker之后得出的...)
+###### 提示: Adguard未被中共封鎖 有一定風險
 ### [F-Droid](https://www.f-droid.org/) Android App Store
-### Intra [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
+### Intra **Google資助** [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
 ### Ethereum 去中心化的虛擬貨幣 https://ethereum.org/zh-tw/
 ### Ethereum2 去中心化的虛擬貨幣 https://ethereum.org/zh-tw/eth2/ 相對bitcoin來講 eth2對環境更好?
 ### [Firefox Relay](https://relay.firefox.com/) Mozilla推出的免費郵件轉寄服務
 ### [Firefox Monitor](https://monitor.firefox.com/) 看看您是否也處於線上資料外洩事件之中
 ### [Mozilla Common Voice](https://commonvoice.mozilla.org/) Common Voice是Mozilla想讓機器學會真人說話方式的專案
-### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
+### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) **Mozilla資助👍🏼** [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
 ### [Quad101 DNS (101.101.101.101)](https://101.101.101.101/) 台灣網路資訊中心 ip: 101.101.101.101 DOH: https://dns.twnic.tw/dns-query
 ### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
 ### [NextDNS] 客製化的DNS服務 **Firefox認証**👍🏼👍🏼
@@ -115,6 +119,11 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [流浪防区](https://www.reddit.com/r/China_irl/)
 ### [攝徒日記Fun TV](https://www.youtube.com/channel/UCvTe3Z7TZsjGzUERx4Ce6zA)
 ### [老外看中國、老外看台灣](https://www.youtube.com/channel/UCZZslGLyRd2rbnF07SVoouA)
+### [台灣眼球中央電視台](https://www.youtube.com/c/%E7%9C%BC%E7%90%83%E4%B8%AD%E5%A4%AE%E9%9B%BB%E8%A6%96%E5%8F%B0EYECTV)
+### [潮玩客 (tech)](https://www.youtube.com/c/%E6%BD%AE%E7%8E%A9%E5%AE%A2)
+### [寻找中国功夫](https://www.youtube.com/c/%E5%AF%BB%E6%89%BE%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB)
+### [徐晓冬北京格斗狂人](https://www.youtube.com/c/%E5%BE%90%E6%99%93%E5%86%AC%E5%8C%97%E4%BA%AC%E6%A0%BC%E6%96%97%E7%8B%82%E4%BA%BA) [維基百科](https://zh.wikipedia.org/zh-tw/%E5%BE%90%E6%99%93%E5%86%AC)
+##### 徐晓冬已被中共全网封鎖
 
 ---
 
