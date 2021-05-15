@@ -13,7 +13,8 @@
 *.gov.cn
 *cgtn*
 *cctv*
-*chineseradio*
+*cntv*
+ # *chineseradio* 數量還不夠多
 cgtn.com
 cgtnnow.com
 c-radio.com.au
