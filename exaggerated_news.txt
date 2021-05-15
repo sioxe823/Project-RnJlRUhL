@@ -155,7 +155,7 @@ newscctv.net
 cctvplus.tv
 cgtn.com
 cctvnc.cn
- # 共媒_youtube
+ # 共媒_youtube  (beta)
 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCgrNz-aDmcr2uuto8\_DL2jg/
 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCj7wKsOBhRD9Jy4yahkMRMw/
 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCcLK3j-XWdGBnt5bR9NJHaQ/
@@ -370,7 +370,7 @@ tuidang.org
 /^(http|https)+\:\/\/.*facebook\.com\/.*-100615995158903/
 /^(http|https)+\:\/\/.*facebook\.com\/100615995158903/
 /^(http|https)+\:\/\/.*facebook\.com\/9ronpyou\.jp/
- # 法輪功_youtube
+ # 法輪功_youtube (beta)
 /^(http|https)+\:\/\/.*youtube.com\/user\/FalunGongStories/
 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDCHINESE/
 /^(http|https)+\:\/\/.*youtube.com\/user\/ntdsfad/
