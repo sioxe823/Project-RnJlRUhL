@@ -51,7 +51,7 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 ### [Decentraleyes](https://decentraleyes.org/) Chrome Firefox
 
 ## 優秀的新聞媒體
-##### 並不是所有香港台灣媒體都臭掉了...
+#### 不要再說所有香港台灣媒體都臭掉了... 好媒體在這裡~
 
 ### 台灣_公視P#新聞實驗室 [Youtube](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
 
@@ -63,6 +63,8 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 ### 台灣_TODAY 看世界 (日本LINE_台灣?) [Yotube](https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw)
 
 ### 台灣_關鍵評論網 The News Lens [官網](https://www.thenewslens.com/) / [Youtube](https://www.youtube.com/c/TheNewsLens) / [維基百科](https://zh.wikipedia.org/zh-tw/%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96%E7%B6%B2)
+
+##### 好媒體其實還有很多 可惜不能一一盡錄 歡迎自行google 趁現在你還可以自由地google~.....
 
 ## 優秀的DNS服務提供商
 
