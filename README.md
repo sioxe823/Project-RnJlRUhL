@@ -32,11 +32,15 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 ###### 提示: Adguard未被中共封鎖 有一定風險
 
 ## 優秀的瀏覽器套件
+
 ### [終結內容農場](https://github.com/danny0838/content-farm-terminator/)
 [Chrome](https://chrome.google.com/webstore/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl)   /   [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/content-farm-terminator/)
+
 ### [uBO-Scope](https://chrome.google.com/webstore/detail/ubo-scope/bbdpgcaljkaaigfcomhidmneffjjjfgp)
+
 ### [Snowflake](https://snowflake.torproject.org/)
 [Chrome](https://chrome.google.com/webstore/detail/snowflake/mafpmfcccpbjnhfhjnllmmalhifmlcie) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/torproject-snowflake/)
+
 ### [Privacy Badger](https://privacybadger.org/)
 [Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/privacy-badger17/)
 
@@ -45,50 +49,97 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
 ### [Decentraleyes](https://decentraleyes.org/) Chrome Firefox
 
+## 優秀的新聞媒體
+
+### 台灣_公視P#新聞實驗室 [Youtube](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
+
+### 香港_眾新聞 Citizen News [官網](https://www.hkcnews.com/) / [Youtube](https://www.youtube.com/channel/UC7K4DBOzdITZFOjGkea_CCA) / [Facebook](https://www.facebook.com/hkcnews/)
+
+### 香港_有線新聞 CABLE News [官網](http://cablenews.i-cable.com/ci/home) / [Youtube](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w) / [Facebook](https://www.facebook.com/icable.news/)
+
+##### 有線中國組助理採訪主任黃麗萍接受傳媒訪問,表示4名空降管理層與新聞部關係敵對，她擔心新聞質素難以維持
+
+### 台灣_TODAY 看世界 (日本LINE_台灣?) [Yotube](https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw)
+
+### 台灣_關鍵評論網 The News Lens [官網](https://www.thenewslens.com/) / [Youtube](https://www.youtube.com/c/TheNewsLens) / [維基百科](https://zh.wikipedia.org/zh-tw/%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96%E7%B6%B2)
+
 ---
 
 ### [Signal](https://signal.org/zh_TW/) 跨平台加密訊息服務
-### 台灣_公視P#新聞實驗室 [Youtube](https://www.youtube.com/channel/UCMDcOT4z7GS1SRGG2g7z43g) 每個人都應該看的
-### 香港_眾新聞 Citizen News [官網](https://www.hkcnews.com/) / [Youtube](https://www.youtube.com/channel/UC7K4DBOzdITZFOjGkea_CCA) / [Facebook](https://www.facebook.com/hkcnews/)
-### 香港_有線新聞 CABLE News [官網](http://cablenews.i-cable.com/ci/home) / [Youtube](https://www.youtube.com/channel/UC_q7e5XYJB0JDGagcF0KW0w) / [Facebook](https://www.facebook.com/icable.news/)
-##### 有線中國組助理採訪主任黃麗萍接受傳媒訪問,表示4名空降管理層與新聞部關係敵對，她擔心新聞質素難以維持
-### 台灣_TODAY 看世界 (日本LINE_台灣?) [Yotube](https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw)
-### 台灣_關鍵評論網 The News Lens [官網](https://www.thenewslens.com/) / [Youtube](https://www.youtube.com/c/TheNewsLens) / [維基百科](https://zh.wikipedia.org/zh-tw/%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96%E7%B6%B2)
+
 ### [Google新聞](https://news.google.com/) 較FB好一點?
-### [OONI Probe (Windows/Android/Linux/iOS/MacOS)](https://ooni.org/) 網路審查偵測程式 [Google Play](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) [F-Droid](https://f-droid.org/zh_Hant/packages/org.openobservatory.ooniprobe)
+
+### [OONI Probe (Windows/Android/Linux/iOS/MacOS)](https://ooni.org/) 網路審查偵測程式 [Google Play](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) 
+[F-Droid](https://f-droid.org/zh_Hant/packages/org.openobservatory.ooniprobe)
+
 ### [GreatFire](https://zh.greatfire.org/analyzer) 測試網站或關鍵字是否遭到防火長城封鎖
+
 GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
+
 ### [DuckDuckGo](https://duckduckgo.com/) 注重使用者隱私的搜尋引擎
+
 ### [ProtonMail (Web/Windows/Android/...)](https://protonmail.com/) 安全電子郵件服務
+
 ### [ProtonVPN (Windows/Android/...](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
+
 ### [Mozilla VPN](https://www.mozilla.org/zh-TW/products/vpn/)
+
 ### [Adguard](https://adguard.com/) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
+
 #### [**>>> 通過我的推薦連結瀏覽Adguard官網 <<<**](https://adguard.com/?aid=31711)
+
 #### [**>>> 通過我的推薦連結下載Adguard for Windows <<<**](https://download.adguard.com/d/31711/adguardInstaller.exe)
+
 #### [**>>> 通過我的推薦連結下載Adguard for Mac <<<**](https://download.adguard.com/d/31711/AdGuardInstaller.dmg)
+
 #### [**>>> 通過我的推薦連結下載Adguard for Android <<<**](https://download.adguard.com/d/31711/adguard.apk)
+
 ##### 俄國團隊... **但Adguard真的是市面上最成熟的Adblocker👍🏼👍🏼👍🏼** (我用過這么多垃圾adblocker之后得出的...)
+
 ###### 提示: Adguard未被中共封鎖 有一定風險
+
 ### [F-Droid](https://www.f-droid.org/) Android App Store
+
 ### Intra **Google資助** [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
+
 ### Ethereum 去中心化的虛擬貨幣 https://ethereum.org/zh-tw/
+
 ### Ethereum2 去中心化的虛擬貨幣 https://ethereum.org/zh-tw/eth2/ 相對bitcoin來講 eth2對環境更好?
+
 ### [Firefox Relay](https://relay.firefox.com/) Mozilla推出的免費郵件轉寄服務
+
 ### [Firefox Monitor](https://monitor.firefox.com/) 看看您是否也處於線上資料外洩事件之中
+
 ### [Mozilla Common Voice](https://commonvoice.mozilla.org/) Common Voice是Mozilla想讓機器學會真人說話方式的專案
-### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) **Mozilla資助👍🏼** [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) [F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
+
+### [RethinkDNS (BraveDNS)](https://rethinkdns.com/) **Mozilla資助👍🏼** [Google play](https://play.google.com/store/apps/details?id=com.celzero.bravedns) 
+[F-Droid](https://f-droid.org/zh_Hans/packages/com.celzero.bravedns/)
+
 ### [Quad101 DNS (101.101.101.101)](https://101.101.101.101/) 台灣網路資訊中心 ip: 101.101.101.101 DOH: https://dns.twnic.tw/dns-query
+
 ### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
+
 ### [NextDNS] 客製化的DNS服務 **Firefox認証**👍🏼👍🏼
+
 #### ** >>>通過我的推薦連結申請使用 https://nextdns.io/?from=w83j3kfk <<< **
+
 ##### 提示: NextDNS已被中共封鎖/干擾 較能信任👍🏼
+
 ##### 可選擇把資料指定儲存在位於歐盟境內的server👍🏼
+
 ### [Exodus Privacy](https://reports.exodus-privacy.eu.org/en/) 分析apk嵌入的追踪器
+
 #### 立即搜索報告: https://reports.exodus-privacy.eu.org/en/
+
 #### 提交apk予分析 https://reports.exodus-privacy.eu.org/en/analysis/submit/
+
 ### Mozilla Builders Incubator Programs
+
 #### https://builders.mozilla.community/programs.html / https://builders.mozilla.community/alumni.html
+
 ### Graduated and incubating projects | Cloud Native Computing Foundation https://www.cncf.io/projects/
+
+### Google Jigsaw https://jigsaw.google.com/
 
 
 即使你沒有在用華為小米 但亦都強烈建議你把它打開
