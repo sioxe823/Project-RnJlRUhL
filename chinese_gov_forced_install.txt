@@ -68,6 +68,14 @@ $app=com.bestmind.antifraud
 
 ! --- 明顯與其有關係的 ---
 ||loongteam.com^
+||cert.org.cn^
+||ifcert.cn^
+||ifcert.com^
+||ifcert.org.cn^
+||cnvd.org.cn^
+||anva.org.cn^
+||ics-cert.org.cn^
+||certlab.org^
 ! ||china-bestmind.com^
 ! ||i-bestmind.com^
 ! ||t-bestmind.com^
