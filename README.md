@@ -163,10 +163,12 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 
 ### Google Jigsaw https://jigsaw.google.com/
 
-### Kanary https://www.thekanary.com/ Clean up and monitor your online presence.
+### Kanary https://www.thekanary.com/ Clean up and monitor your online presence. **Mozilla資助👍🏼**
 #### 免費試用 https://www.thekanary.com/signup/options
 
 ### Bitdefender Digital Identity Protection https://www.bitdefender.com/solutions/digital-identity-protection.html
+
+### Credder https://credder.com/ Find trusted news **Mozilla資助👍🏼** [Chrome](https://chrome.google.com/webstore/detail/credder/flblmonmfdjgcppilfljlbhlklkjdjfe/)
 
 ---
 
