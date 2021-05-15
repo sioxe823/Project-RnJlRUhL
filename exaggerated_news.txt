@@ -235,6 +235,11 @@ omoplanet.com
 nextdigital.com.hk
 nextdigital.com.tw
 nxtdig.com.hk
+nextanimationstudio.com
+nextmedia.com
+nextmedia.tw
+nextmedia.com.tw
+
  # 蘋果日報_FB (未完成)
 
  # 蘋果日報_youtube (未完成)
@@ -245,7 +250,20 @@ nxtdig.com.hk
  # 法輪功_wiki zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BD%AE%E5%8A%9F
  # Antiscience_wiki_en en.wikipedia.org/wiki/Antiscience
  # Antiscience_wiki_zh zh.wikipedia.org/zh-tw/%E5%8F%8D%E7%A7%91%E5%AD%B8
-*falun*.*
+ # 宗教不能碰媒體 就跟政府不能碰媒體一樣道理!
+*falun*
+*fa-lun*
+*epoch*
+*ntdtv*
+*ntd-tv*
+*shenyun*
+*shen-yun*
+*tianyin*
+*tian-yin*
+*dafa*
+*da-fa*
+*lungong*
+*lun-gong*
 minghui.org
 epochtimes.com
 epochtimes.com.tw
@@ -253,27 +271,30 @@ epochweekly.com
 ntdtv.com
 ntdtv.com.tw
 ntdtv.org
+epochbelt.com
 mhradio.org
 zhengwunet.org
 zhengjian.org
 dongtaiwang.com
 ultrasurf.us
+shenyun.org
 shenyundancer.com
 shenyunshop.com
 friendsofshenyun.org
 tianyinmusic.com
 shenyun.com
 shenyunperformingarts.org
-eoffering.org.tw
+nsc.eoffering.org.tw
 newsancai.com
 xinsheng.net
- # bannedbook.org
 wujieliulan.com
 soundofhope.org
 landofhope.tv
 fgmtv.org
 tiantibooks.org
 ippotv.com
+tiandixing.org
+internetfreedom.org
 shu.best
 dafamedia.or.kr
 falungongbrasil.net
@@ -344,8 +365,12 @@ faluninfo.or.kr
 ming-jian.net
 mhxw.club
 mh4u.org
- # 原來也是法輪功的人架設的... 若誤會了請告知一聲 謝謝
+ # tuidang.org 原來也是法輪功的人架設的... 若誤會了請告知一聲 謝謝
 tuidang.org
+ # cc.greatfire.org 好像跟疑似法輪功推出的翻牆browser"自由新闻"有关连 可惜了...
+ # cc.greatfire.org 証據不足 暫時放行
+ # bannedbook.org 証據不足 暫時放行
+ # 法輪功_定期覆檢_2021_05_16_已驗證至此行
  # 法輪功_FB
 /^(http|https)+\:\/\/.*facebook\.com\/NTDChinese/
 /^(http|https)+\:\/\/.*facebook\.com\/ntdtv\.com\.tw/
