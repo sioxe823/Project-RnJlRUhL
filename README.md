@@ -58,8 +58,11 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [ProtonMail (Web/Windows/Android/...)](https://protonmail.com/) 安全電子郵件服務
 ### [ProtonVPN (Windows/Android/...](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
 ### [Mozilla VPN](https://www.mozilla.org/zh-TW/products/vpn/)
-### [Adguard](https://adguard.com/zh_tw/welcome.html) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
-##### 提示: NextDNS已被中共封鎖/干擾 較能信任
+### [Adguard](https://adguard.com/zh_tw/welcome.html?ref=NOTInvaIRbEN&this_is_a_useless_ref_param_if_you_really_want_to_know_haha) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
+### AdGuard for Windows [**>>> 通過我的推薦連結下載Adguard for Windows<<<**](https://download.adguard.com/d/31711/adguardInstaller.exe)
+### AdGuard for Mac [**>>> 通過我的推薦連結下載Adguard for Mac<<<**](https://download.adguard.com/d/31711/AdGuardInstaller.dmg)
+### AdGuard for Android [**>>> 通過我的推薦連結下載Adguard for Android<<<**](https://download.adguard.com/d/31711/adguard.apk)
+##### 俄國團隊..... 但Adguard是市面上最成熟的Adblocker👍🏼👍🏼👍🏼 (我用過這么多垃圾adblocker之后得出的...)
 ### [F-Droid](https://www.f-droid.org/) Android App Store
 ### Intra [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
 ### Ethereum 去中心化的虛擬貨幣
@@ -71,6 +74,7 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [Google DNS](https://developers.google.com/speed/public-dns) ip: 8.8.8.8 DOH: https://dns.google/dns-query
 ### [NextDNS] 客製化的DNS服務 **Firefox認証**
 #### ** >>>通過我的推薦連結申請使用 https://nextdns.io/?from=w83j3kfk <<< **
+##### 提示: NextDNS已被中共封鎖/干擾 較能信任
 ### [Exodus Privacy](https://reports.exodus-privacy.eu.org/en/) 分析apk嵌入的追踪器
 #### 立即搜索報告: https://reports.exodus-privacy.eu.org/en/
 #### 提交apk予分析 https://reports.exodus-privacy.eu.org/en/analysis/submit/
