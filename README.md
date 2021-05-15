@@ -50,6 +50,11 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
 ### [Decentraleyes](https://decentraleyes.org/) Chrome Firefox
 
+### [NewsGuard](https://www.newsguardtech.com/) 查核網站上的新聞是否可靠 [Chrome](https://chrome.google.com/webstore/detail/newsguard/hcgajcpgaalgpeholhdooeddllhedegi) [維基百科](https://zh.wikipedia.org/zh-tw/NewsGuard)
+
+### [Web of Trust](https://www.mywot.com/) 網站聲譽評級查詢 [Chrome](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp)
+##### Web of Trust被發現販賣用戶隱私_2016年11月
+
 ## 優秀的新聞媒體
 #### 不要再說所有香港台灣媒體都臭掉了... 好媒體在這裡~
 
@@ -156,9 +161,12 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 
 #### https://builders.mozilla.community/programs.html / https://builders.mozilla.community/alumni.html
 
-### Graduated and incubating projects | Cloud Native Computing Foundation https://www.cncf.io/projects/
-
 ### Google Jigsaw https://jigsaw.google.com/
+
+### Kanary https://www.thekanary.com/ Clean up and monitor your online presence.
+#### 免費試用 https://www.thekanary.com/signup/options
+
+### Bitdefender Digital Identity Protection https://www.bitdefender.com/solutions/digital-identity-protection.html
 
 ---
 
