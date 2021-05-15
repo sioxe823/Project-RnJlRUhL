@@ -9,9 +9,10 @@
 
  # ----- 共媒/紅媒/中資媒體 -----
  # 其實牆內的媒體都不要多信...
+ # 其實牆內的媒體都不要多信... 不另外做 *.cn 了 免得嚴重影響用戶體驗
 *.gov.cn
 *cgtn*
-*cctv*.cn
+*cctv*
 cgtn.com
 cgtnnow.com
 c-radio.com.au
