@@ -59,11 +59,12 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [ProtonVPN (Windows/Android/...](https://protonvpn.com/) 尊重隱私且使用安全的免費VPN服務
 ### [Mozilla VPN](https://www.mozilla.org/zh-TW/products/vpn/)
 ### [Adguard](https://adguard.com/) 一套成熟的Adblocker (Android/iOS/Router/DNS服務/MacOS/Windows)
-### **>>> 通過我的推薦連結瀏覽Adguard官網 https://adguard.com/?aid=31711 <<<**
-### **>>> 通過我的推薦連結下載Adguard for Windows https://download.adguard.com/d/31711/adguardInstaller.exe <<<**
-### **>>> 通過我的推薦連結下載Adguard for Mac https://download.adguard.com/d/31711/AdGuardInstaller.dmg <<<**
-### **>>> 通過我的推薦連結下載Adguard for Android https://download.adguard.com/d/31711/adguard.apk <<<**
+#### **>>> 通過我的推薦連結瀏覽Adguard官網 https://adguard.com/?aid=31711 <<<**
+#### **>>> 通過我的推薦連結下載Adguard for Windows https://download.adguard.com/d/31711/adguardInstaller.exe <<<**
+#### **>>> 通過我的推薦連結下載Adguard for Mac https://download.adguard.com/d/31711/AdGuardInstaller.dmg <<<**
+#### **>>> 通過我的推薦連結下載Adguard for Android https://download.adguard.com/d/31711/adguard.apk <<<**
 ##### 俄國團隊... 但Adguard真的是市面上最成熟的Adblocker👍🏼👍🏼👍🏼 (我用過這么多垃圾adblocker之后得出的...)
+##### 提示: Adguard未被中共封鎖 有一定風險
 ### [F-Droid](https://www.f-droid.org/) Android App Store
 ### Intra [Google Play](https://play.google.com/store/apps/details?id=app.intra) [F-Droid](https://play.google.com/store/apps/details?id=app.intra)
 ### Ethereum 去中心化的虛擬貨幣 https://ethereum.org/zh-tw/
