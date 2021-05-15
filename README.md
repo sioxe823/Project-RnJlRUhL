@@ -74,6 +74,10 @@ GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
 ### [Exodus Privacy](https://reports.exodus-privacy.eu.org/en/) 分析apk嵌入的追踪器
 #### 立即搜索報告: https://reports.exodus-privacy.eu.org/en/
 #### 提交apk予分析 https://reports.exodus-privacy.eu.org/en/analysis/submit/
+### Mozilla Builders Incubator Programs
+#### https://builders.mozilla.community/programs.html / https://builders.mozilla.community/alumni.html
+### Graduated and incubating projects | Cloud Native Computing Foundation https://www.cncf.io/projects/
+
 
 即使你沒有在用華為小米 但亦都強烈建議你把它打開
 畢竟廣告是小米的最大營收點之一.....
