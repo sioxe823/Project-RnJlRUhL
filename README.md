@@ -206,6 +206,7 @@ NextDNS設定圖1:
 
 ### [真實荒漠](https://www.youtube.com/channel/UC1zdy56c93qmQyp3WgsxBSA)
 
+### [自由新闻](https://cc.greatfire.org/zh)
 
 ---
 
