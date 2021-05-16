@@ -24,6 +24,8 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/hongkong_gov_extreme.txt
 請配合「終結內容農場」使用
 https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
+![image](https://user-images.githubusercontent.com/83683882/118388132-1f632a00-b655-11eb-9667-83122fee093a.png)
+
 # 推薦
 ## 優秀的網路黑名單
 ### **遠離共媒** **遠離紅媒** https://github.com/festum/anti-bias-media/
@@ -208,6 +210,7 @@ NextDNS設定圖1:
 
 ### [自由新闻](https://cc.greatfire.org/zh)
 
+### [陳老師來了](https://www.youtube.com/channel/UCEtw3BDrzbo6x2aFCEiEqfw)
 
 ---
 
