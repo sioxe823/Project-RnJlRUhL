@@ -1,4 +1,6 @@
  # 『誇大不實網站』
+ # 包括發表誇大不實或可疑內容之網站
+ # 包括但不限於新聞
  # 格式: 終結內容農場
  # github.com/danny0838/content-farm-terminator/issues/33#issuecomment-482924912
  # 這份名單旨在提醒用户 故未有打算兼容其他adblocker格式
@@ -14,10 +16,48 @@
 *cgtn*
 *cctv*
 *cntv*
+*news*.cn
+*xinhua*
+*daily*.cn
+*radio*.cn
+*nanzao*
+*scmp*
+*chinadaily*
  # *chineseradio* 數量還不夠多
 cgtn.com
 cgtnnow.com
 c-radio.com.au
+ # 新華通訊社 / 新华网股份有限公司
+news.cn
+xinhuanet.com
+ # 中国日报 / 中报国际文化传媒（北京）有限公司
+chinadaily.com.cn
+cityofbeijing.gov.cn
+cndy.org
+cdurl.cn
+i21st.cn
+ejilin.gov.cn
+chinadailyafrica.com
+chinadailycanada.com
+beijing-tokyo.org
+bdainvest.org
+chinaethnicgroups.com
+china-anshun.com.cn
+cityofzhuhai.com
+wuzhenwic.org
+media.gov.cn
+seeyangzhou.com
+ezhejiang.gov.cn
+xiangzhouonline.com
+eguangzhou.gov.cn
+qianxinanmt.com
+worldnow.com.cn
+ # 南華早報 (未完成)
+ # 擁有人：阿里巴巴集團
+ # "聚焦中國的南華早報中文版nanzao.com已經下架。" 你懂的
+scmp.com
+ # nanzao.com 已棄用? 現屬河南金思维品牌管理研究院
+i-scmp.com
  # 央视频融媒体发展有限公司
 yangshipin.cn
  # 中国国际广播电台
@@ -227,6 +267,13 @@ cctvnc.cn
 /^(http|https)+\:\/\/.*twitter.com\/cgtn\_culture/
 /^(http|https)+\:\/\/.*twitter.com\/fullframecgtn/
  # ----- 共媒/紅媒_end -----
+
+ # 新天地耶穌教證據帳幕聖殿教會 (新天地教會)
+ # https://zh.wikipedia.org/zh-tw/%E6%96%B0%E5%A4%A9%E5%9C%B0%E8%80%B6%E7%A9%8C%E6%95%99%E8%AD%89%E6%93%9A%E5%B8%B3%E5%B9%95%E8%81%96%E6%AE%BF%E6%95%99%E6%9C%83
+ # Shincheonji_wiki_zh https://zh.wikipedia.org/zh-tw/%E6%96%B0%E5%A4%A9%E5%9C%B0%E8%80%B6%E7%A9%8C%E6%95%99%E8%AD%89%E6%93%9A%E5%B8%B3%E5%B9%95%E8%81%96%E6%AE%BF%E6%95%99%E6%9C%83
+ # Shincheonji_wiki_en https://en.wikipedia.org/wiki/Shincheonji_Church_of_Jesus
+*shincheonji*
+ # *shincheonji*.blogspot.*
 
  # 蘋果日報
  # 曲解受訪者原意 報導不實
