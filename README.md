@@ -212,6 +212,12 @@ NextDNS設定圖1:
 
 ### [陳老師來了](https://www.youtube.com/channel/UCEtw3BDrzbo6x2aFCEiEqfw)
 
+### [回形针PaperClip](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos)
+
+### [XYZONE](https://www.youtube.com/channel/UCTJJX_LQcDED7MZbt9OSeQQ)
+
+### [FView](https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA)
+
 ---
 
 # 不推薦
