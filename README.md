@@ -121,6 +121,7 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
 ### [GreatFire](https://zh.greatfire.org/analyzer) 測試網站或關鍵字是否遭到防火長城封鎖
 GreatFire新開發的測試版本: **Blocky** https://blocky.greatfire.org/
+##### greatfire.org 疑似跟法輪功有關連
 
 ### qBittorrent Enhanced Edition 防中国迅雷等吸血用戶 [Github](https://github.com/c0re100/qBittorrent-Enhanced-Edition/) / [Github下載](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
 ##### 某位香港人推出的修改版本 非qBittorrent官方版本 有一定風險??
@@ -209,14 +210,15 @@ NextDNS設定圖1:
 ### [真實荒漠](https://www.youtube.com/channel/UC1zdy56c93qmQyp3WgsxBSA)
 
 ### [自由新闻](https://cc.greatfire.org/zh)
+##### greatfire.org 疑似跟法輪功有關連
 
 ### [陳老師來了](https://www.youtube.com/channel/UCEtw3BDrzbo6x2aFCEiEqfw)
 
-### [回形针PaperClip](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos)
+### [回形针PaperClip](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/videos) [維基百科](https://zh.wikipedia.org/zh-tw/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip)
 
-### [XYZONE](https://www.youtube.com/channel/UCTJJX_LQcDED7MZbt9OSeQQ)
+### [XYZONE](https://www.youtube.com/channel/UCTJJX_LQcDED7MZbt9OSeQQ) 
 
-### [FView](https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA)
+### [愛否FView](https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA) [維基百科](https://zh.wikipedia.org/zh-tw/%E7%88%B1%E5%90%A6%E7%A7%91%E6%8A%80)
 
 ---
 
