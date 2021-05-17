@@ -93,7 +93,8 @@ https://github.com/sioxe823/Project-RnJlRUhL/raw/main/exaggerated_news.txt
 
 ## 優秀的防毒軟體
 
-### ESET 來自歐盟會員國斯洛伐克 使用體驗較Bitdefender好
+### ESET 來自歐盟會員國斯洛伐克
+##### 個人覺得使用體驗較Bitdefender好
 ###### 提示_1: ESET未被中共封鎖 且仍可以在淘寶購買正版代理的產品key 有一定風險
 ###### 提示_2: 中港台總代理皆為Version 2 Limited
 ** >>>通過我的推薦連結 取得一個月試用資格 https://my.eset.com/refer-friend/WMXASCM2 <<< **
