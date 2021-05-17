@@ -17,19 +17,67 @@
 *cctv*
 *cntv*
 *news*.cn
-*xinhua*
+*xin*hua*
 *daily*.cn
 *radio*.cn
-*nanzao*
+*nan*zao*
 *scmp*
-*chinadaily*
+*china*daily*
+*xin*wen*
+*ri*bao*
+*dian*tai*
+*zhou*bao*
+*zhou*kan*
+*zhong*guo*
+*dong*fang*
+*hua*xia*
+*zhong*hua*
+*mei*ti*
  # *chineseradio* 數量還不夠多
 cgtn.com
 cgtnnow.com
 c-radio.com.au
  # 新華通訊社 / 新华网股份有限公司
-news.cn
+jstsxz.com
+gszg.gov.cn
+zxdbw.net
+kzjn70.cn
+wenmingwangzhan.cn
+hsdnews.cn
+china-goh.org.cn
+xiongan.gov.cn
+xpanda.cn
+ynmyanmar.com
+lianghui.cn
+nxhbh.com.cn
+focac2018.cn
+70prc.cn
+zgcbh2017.com.cn
+zgcbh2017.org
+zgcbh2017.com
+xinhuanet.ltd
+newsres.cn
+chinafrance50.org
+china-goh.com
 xinhuanet.com
+xinhuanet.com.cn
+xinhuanet.cn
+homeurl.cn
+news.cn
+xhnet.com
+newsstat.cn
+chinaequip.cn
+newsimg.cn
+zoom-inpoverty.org
+chinaeurope-relations.cn
+china-goh.cn
+topreading.org.cn
+topreading.cn
+nationalreading.org.cn
+新华网.cn
+xn--xkrr14bows.cn
+xinwen.cn
+
  # 中国日报 / 中报国际文化传媒（北京）有限公司
 chinadaily.com.cn
 cityofbeijing.gov.cn
@@ -52,7 +100,7 @@ xiangzhouonline.com
 eguangzhou.gov.cn
 qianxinanmt.com
 worldnow.com.cn
- # 南華早報 (未完成)
+ # 南華早報
  # 擁有人：阿里巴巴集團
  # "聚焦中國的南華早報中文版nanzao.com已經下架。" 你懂的
 scmp.com
