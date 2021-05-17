@@ -378,7 +378,12 @@ cctvnc.cn
  # Shincheonji_wiki_zh https://zh.wikipedia.org/zh-tw/%E6%96%B0%E5%A4%A9%E5%9C%B0%E8%80%B6%E7%A9%8C%E6%95%99%E8%AD%89%E6%93%9A%E5%B8%B3%E5%B9%95%E8%81%96%E6%AE%BF%E6%95%99%E6%9C%83
  # Shincheonji_wiki_en https://en.wikipedia.org/wiki/Shincheonji_Church_of_Jesus
 *shincheonji*
+shincheonji.kr
  # *shincheonji*.blogspot.*
+hmbc.tv
+ # keenitsolutions.com 幫忙架設/設計/管理網站?
+ixthus.club
+
 
  # 蘋果日報
  # 曲解受訪者原意 報導不實
@@ -412,18 +417,20 @@ nextmedia.com.tw
  # 宗教不能碰媒體 就跟政府不能碰媒體一樣道理!
  # 其實跟"宗教"有關連的媒體都不要多信...
 *falun*
-*fa-lun*
+*fa*lun*
 *epoch*
+ # *epoch*times*
 *ntdtv*
-*ntd-tv*
+*ntd*tv*
 *shenyun*
-*shen-yun*
+*shen*yun*
 *tianyin*
-*tian-yin*
+*tian*yin*
 *dafa*
-*da-fa*
+*da*fa*
 *lungong*
-*lun-gong*
+*lun*gong*
+*ming*hui*
 minghui.org
 epochtimes.com
 epochtimes.com.tw
