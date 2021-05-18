@@ -40,6 +40,7 @@
 *zhong*hua*.cn
 *mei*ti*.cn
 *forum*.cn
+*voice*.cn
  # 雖然 *post*.cn 會誤殺中国邮政(chinapost.com.cn) 但...沒辦法了~
 *post*.cn
  # *zhou*kan*
@@ -66,6 +67,21 @@
  # ---
 cgtnnow.com
 c-radio.com.au
+ # 央广网文化传媒有限公司
+cnrmz.cn
+uycnr.com
+kazakcnr.com
+krcnr.cn
+cnrmz.com
+tibetcnr.com
+mongolcnr.cn
+cnr.cn
+ # 人民日报媒体技术股份有限公司
+hubpd.com
+xuexishequ.cn
+snshub.cn
+pdmi.cn
+pdmiryun.com
  # 央视国际视频通讯有限公司网站
 cgtn.com
 cctvplus.com
