@@ -22,33 +22,46 @@
 *radio*.cn
 *nan*zao*
 *scmp*
-*china*daily*
-*xin*wen*
-*ri*bao*
-*dian*tai*
-*zhou*bao*
-*zhou*kan*
-*zhong*guo*
-*dong*fang*
-*hua*xia*
-*zhong*hua*
-*mei*ti*
-*china*view*
-*chinese*radio*
+*media*.cn
+ # *china*daily* 怕誤殺TW/MY/SG媒體
+*china*daily*.cn
+ # *xin*wen* 怕誤殺TW/MY/SG媒體
+*xin*wen*.cn
+ # *ri*bao* 怕誤殺TW/MY/SG媒體 稍後處理
+*ri*bao*.cn
+ # *dian*tai*
+*dian*tai*.cn
+ # *zhou*bao*
+*zhou*bao*.cn
+ # *zhou*kan*
+*zhou*kan*.cn
+ # *zhong*guo*
+*zhong*guo*.cn
+ # *dong*fang*
+*dong*fang*.cn
+ # *hua*xia*
+*hua*xia*.cn
+ # *zhong*hua*
+*zhong*hua*.cn
+ # *mei*ti*
+*mei*ti*.cn
+ # *china*view* 怕誤殺TW/MY/SG媒體
+ # *chinese*radio* 怕誤殺TW/MY/SG媒體
 *forum*.cn
+ # 雖然 *post*.cn 會誤殺中国邮政(chinapost.com.cn) 但...沒辦法了~
 *post*.cn
-*china*post*
-*china*forum*
-*chinese*forum*
+ # *china*post* 怕誤殺TW/MY/SG媒體
+ # *china*forum* 怕誤殺TW/MY/SG媒體
+ # *chinese*forum* 怕誤殺TW/MY/SG媒體
 *vlog*.cn
 *blog*.cn
-*china*blog*
-*chinese*blog*
-*china*vlog*
-*chinese*vlog*
+ # *china*blog* 怕誤殺TW/MY/SG媒體
+ # *chinese*blog* 怕誤殺TW/MY/SG媒體
+ # *china*vlog* 怕誤殺TW/MY/SG媒體
+ # *chinese*vlog* 怕誤殺TW/MY/SG媒體
 *world*now*.cn
 *city*of*.cn
- # *chineseradio* 數量還不夠多
+ # *chinese*radio* 怕誤殺TW/MY/SG媒體
 cgtn.com
 cgtnnow.com
 c-radio.com.au
@@ -416,6 +429,8 @@ nextmedia.com.tw
  # Antiscience_wiki_zh zh.wikipedia.org/zh-tw/%E5%8F%8D%E7%A7%91%E5%AD%B8
  # 宗教不能碰媒體 就跟政府不能碰媒體一樣道理!
  # 其實跟"宗教"有關連的媒體都不要多信...
+ # 採訪證被吊銷《大紀元》自曝遭美國國會轟出 來源1: https://cia.hinet.net/mobile/news/23318717
+ # 來源2: https://today.line.me/tw/v2/article/DKBa58
 *falun*
 *fa*lun*
 *epoch*
