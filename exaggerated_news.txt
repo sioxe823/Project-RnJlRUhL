@@ -23,48 +23,84 @@
 *nan*zao*
 *scmp*
 *media*.cn
- # *china*daily* 怕誤殺TW/MY/SG媒體
+*world*now*.cn
+*city*of*.cn
+*huan*qiu*.cn
+*vlog*.cn
+*blog*.cn
 *china*daily*.cn
- # *xin*wen* 怕誤殺TW/MY/SG媒體
 *xin*wen*.cn
- # *ri*bao* 怕誤殺TW/MY/SG媒體 稍後處理
 *ri*bao*.cn
- # *dian*tai*
 *dian*tai*.cn
- # *zhou*bao*
 *zhou*bao*.cn
- # *zhou*kan*
 *zhou*kan*.cn
- # *zhong*guo*
 *zhong*guo*.cn
- # *dong*fang*
 *dong*fang*.cn
- # *hua*xia*
 *hua*xia*.cn
- # *zhong*hua*
 *zhong*hua*.cn
- # *mei*ti*
 *mei*ti*.cn
- # *china*view* 怕誤殺TW/MY/SG媒體
- # *chinese*radio* 怕誤殺TW/MY/SG媒體
 *forum*.cn
  # 雖然 *post*.cn 會誤殺中国邮政(chinapost.com.cn) 但...沒辦法了~
 *post*.cn
- # *china*post* 怕誤殺TW/MY/SG媒體
+ # *zhou*kan*
+ # *hua*xia*
+ # *zhong*guo*
+ # *zhong*hua*
+ # *mei*ti*
+ # *dong*fang*
+ # *dian*tai*
+ # *zhou*bao*
+ # *china*post* 怕誤殺TW/MY/SG媒體 稍後處理
  # *china*forum* 怕誤殺TW/MY/SG媒體
  # *chinese*forum* 怕誤殺TW/MY/SG媒體
-*vlog*.cn
-*blog*.cn
  # *china*blog* 怕誤殺TW/MY/SG媒體
  # *chinese*blog* 怕誤殺TW/MY/SG媒體
  # *china*vlog* 怕誤殺TW/MY/SG媒體
  # *chinese*vlog* 怕誤殺TW/MY/SG媒體
-*world*now*.cn
-*city*of*.cn
  # *chinese*radio* 怕誤殺TW/MY/SG媒體
-cgtn.com
+ # *xin*wen* 怕誤殺TW/MY/SG媒體
+ # *china*daily* 怕誤殺TW/MY/SG媒體
+ # *ri*bao* 怕誤殺TW/MY/SG媒體 稍後處理
+ # *china*view* 怕誤殺TW/MY/SG媒體
+ # *chinese*radio* 怕誤殺TW/MY/SG媒體 稍後處理
+ # ---
 cgtnnow.com
 c-radio.com.au
+ # 央视国际视频通讯有限公司网站
+cgtn.com
+cctvplus.com
+newsharing.com
+eurasianews.cn
+newscctv.cn
+brnalink.com
+videomediaforum.com
+eurasianews.com.cn
+cctvnews.cn
+cctvnc.cn
+cctvplus.tv
+newscctv.net
+ # 环球时报在线（北京）文化传播有限公司
+huanqiu.com
+globaltimes.cn
+huanqiucdn.cn
+caihulu.com.cn
+zlibs.com
+worldmall365.net
+globalsphare.com
+huanqiu.com
+huanqiu-ltd.com
+lifetimes.cn
+worldshop365.net
+worldmall365.cn
+worldshop365.com
+worldshop365.cn
+solution9.net
+betaenv.com
+lifetimes.com.cn
+huanqiu.org
+huanqiu.cn
+develenv.com
+worldmall365.com
  # 新華通訊社 / 新华网股份有限公司
 jstsxz.com
 gszg.gov.cn
