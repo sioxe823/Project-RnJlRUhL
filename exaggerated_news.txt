@@ -371,71 +371,71 @@ cctvplus.tv
 cgtn.com
 cctvnc.cn
  # 共媒_youtube  (beta)
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCgrNz-aDmcr2uuto8\_DL2jg/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCj7wKsOBhRD9Jy4yahkMRMw/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCcLK3j-XWdGBnt5bR9NJHaQ/
-/^(http|https)+\:\/\/.*youtube.com\/user\/CCTVNEWSbeijing/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCfv35fnCnT\_h2HEaTFnn4Ng/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCd94YCD7yp6d-YZSRYWyeFA/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCj0TppyxzQWm9JbMg3CP8Rg/
-/^(http|https)+\:\/\/.*youtube.com\/user\/CCTVFrench/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCQmJk0ErE\_FiorcLBsDKORA/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCKPX70w5skEeSZbTMHYYUZw/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCo3yzLR4qYurIVsQeAcqJiA/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UC2QWHeJ0VmmsGQ8UjbcGRkQ/
-/^(http|https)+\:\/\/.*youtube.com\/user\/CCTVAmerica1/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCA2WHG4EpVqul3TYjAF0k2A/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCGCsFyghQsUU-lBAO64T17g/
-/^(http|https)+\:\/\/.*youtube.com\/user\/CCTVAFRICALIVE/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCKPP9QtpcvkfLGJgSWjWVQQ/
-/^(http|https)+\:\/\/.*youtube.com\/user\/BizAsiaAmerica/
-/^(http|https)+\:\/\/.*youtube.com\/user\/cctvamericasnow/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCscahG0n1dztYmzTEjkcunA/
-/^(http|https)+\:\/\/.*youtube.com\/user\/cctvch/
-/^(http|https)+\:\/\/.*youtube.com\/user\/documentarycntv/
-/^(http|https)+\:\/\/.*youtube.com\/user\/zhongguohaogequ/
-/^(http|https)+\:\/\/.*youtube.com\/user\/kejiaotv/
-/^(http|https)+\:\/\/.*youtube.com\/user\/Internationalcntv/
-/^(http|https)+\:\/\/.*youtube.com\/user\/springfestivalgala/
-/^(http|https)+\:\/\/.*youtube.com\/user\/entcntv/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UC3HLhJGcc\_0Vse2UncGnxcQ/
-/^(http|https)+\:\/\/.*youtube.com\/user\/theateronair/
-/^(http|https)+\:\/\/.*youtube.com\/user\/financecntv/
-/^(http|https)+\:\/\/.*youtube.com\/user\/artisticlifeOfficial/
-/^(http|https)+\:\/\/.*youtube.com\/user\/baijiajiangtanTV/
-/^(http|https)+\:\/\/.*youtube.com\/user\/kanjiancntv/
-/^(http|https)+\:\/\/.*youtube.com\/user\/militarycntv/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UC7Vl0YiY0rDlovqcCFN4yTA/
-/^(http|https)+\:\/\/.*youtube.com\/user\/approachinscience/
-/^(http|https)+\:\/\/.*youtube.com\/user\/kaijiangla/
-/^(http|https)+\:\/\/.*youtube.com\/user\/dailydietofficia/
-/^(http|https)+\:\/\/.*youtube.com\/user\/childrenchannelify/
-/^(http|https)+\:\/\/.*youtube.com\/user\/jinrishuofa/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UC3vYoqyUwy1dgK9LawziBig/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCgrNz-aDmcr2uuto8\_DL2jg/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UUCnAsZ46UTeFEgwOEwMezngQ/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCgrNz-aDmcr2uuto8\_DL2jg/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCj7wKsOBhRD9Jy4yahkMRMw/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCcLK3j-XWdGBnt5bR9NJHaQ/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/CCTVNEWSbeijing/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCfv35fnCnT\_h2HEaTFnn4Ng/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCd94YCD7yp6d-YZSRYWyeFA/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCj0TppyxzQWm9JbMg3CP8Rg/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/CCTVFrench/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCQmJk0ErE\_FiorcLBsDKORA/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCKPX70w5skEeSZbTMHYYUZw/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCo3yzLR4qYurIVsQeAcqJiA/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UC2QWHeJ0VmmsGQ8UjbcGRkQ/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/CCTVAmerica1/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCA2WHG4EpVqul3TYjAF0k2A/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCGCsFyghQsUU-lBAO64T17g/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/CCTVAFRICALIVE/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCKPP9QtpcvkfLGJgSWjWVQQ/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/BizAsiaAmerica/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/cctvamericasnow/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCscahG0n1dztYmzTEjkcunA/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/cctvch/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/documentarycntv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/zhongguohaogequ/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/kejiaotv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/Internationalcntv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/springfestivalgala/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/entcntv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UC3HLhJGcc\_0Vse2UncGnxcQ/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/theateronair/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/financecntv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/artisticlifeOfficial/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/baijiajiangtanTV/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/kanjiancntv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/militarycntv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UC7Vl0YiY0rDlovqcCFN4yTA/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/approachinscience/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/kaijiangla/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/dailydietofficia/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/childrenchannelify/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/jinrishuofa/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UC3vYoqyUwy1dgK9LawziBig/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCgrNz-aDmcr2uuto8\_DL2jg/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UUCnAsZ46UTeFEgwOEwMezngQ/
  # 共媒_FB (未完成)
-/^(http|https)+\:\/\/.*facebook\.com\/cgtnamerica/
-/^(http|https)+\:\/\/.*facebook\.com\/ChinaGlobalTVNetwork/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/cgtnamerica/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/ChinaGlobalTVNetwork/
 
  # 共媒_Twitter
-/^(http|https)+\:\/\/.*twitter.com\/cgtneurope/
-/^(http|https)+\:\/\/.*twitter.com\/cgtnofficial/
-/^(http|https)+\:\/\/.*twitter.com\/cctv/
-/^(http|https)+\:\/\/.*twitter.com\/cctvnews/
-/^(http|https)+\:\/\/.*twitter.com\/cgtnamerica/
-/^(http|https)+\:\/\/.*twitter.com\/liuxininbeijing/
-/^(http|https)+\:\/\/.*twitter.com\/cgtnglobalbiz/
-/^(http|https)+\:\/\/.*twitter.com\/cgtnafrica/
-/^(http|https)+\:\/\/.*twitter.com\/cctvasiapacific/
-/^(http|https)+\:\/\/.*twitter.com\/cctv\_plus/
-/^(http|https)+\:\/\/.*twitter.com\/globalwatchcgtn/
-/^(http|https)+\:\/\/.*twitter.com\/icon\_cgtn/
-/^(http|https)+\:\/\/.*twitter.com\/cgtntech/
-/^(http|https)+\:\/\/.*twitter.com\/cctvcambridge/
-/^(http|https)+\:\/\/.*twitter.com\/cgtnsports/
-/^(http|https)+\:\/\/.*twitter.com\/cgtn\_culture/
-/^(http|https)+\:\/\/.*twitter.com\/fullframecgtn/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtneurope/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtnofficial/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cctv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cctvnews/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtnamerica/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/liuxininbeijing/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtnglobalbiz/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtnafrica/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cctvasiapacific/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cctv\_plus/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/globalwatchcgtn/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/icon\_cgtn/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtntech/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cctvcambridge/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtnsports/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/cgtn\_culture/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/fullframecgtn/
  # ----- 共媒/紅媒_end -----
 
  # 新天地耶穌教證據帳幕聖殿教會 (新天地教會)
@@ -607,71 +607,71 @@ tuidang.org
  # bannedbook.org 証據不足 暫時放行
  # 法輪功_定期覆檢_2021_05_16_已驗證至此行
  # 法輪功_FB
-/^(http|https)+\:\/\/.*facebook\.com\/NTDChinese/
-/^(http|https)+\:\/\/.*facebook\.com\/ntdtv\.com\.tw/
-/^(http|https)+\:\/\/.*facebook\.com\/ntdfriends/
-/^(http|https)+\:\/\/.*facebook\.com\/NTDInternationalPianoCompetition/
-/^(http|https)+\:\/\/.*facebook\.com\/NTDCAChinese/
-/^(http|https)+\:\/\/.*facebook\.com\/ntdoilpainting/
-/^(http|https)+\:\/\/.*facebook\.com\/NewsWeekNTD/
-/^(http|https)+\:\/\/.*facebook\.com\/NTDatHsinchu/
-/^(http|https)+\:\/\/.*facebook\.com\/NTDtvMartialArts/
-/^(http|https)+\:\/\/.*facebook\.com\/francentdtv/
-/^(http|https)+\:\/\/.*facebook\.com\/ntdtvVocal/
-/^(http|https)+\:\/\/.*facebook\.com\/www\.minghui\.org/
-/^(http|https)+\:\/\/.*facebook\.com\/falunHK/
-/^(http|https)+\:\/\/.*facebook\.com\/falungongmelbourne/
-/^(http|https)+\:\/\/.*facebook\.com\/FalunGongClub/
-/^(http|https)+\:\/\/.*facebook\.com\/.*-108239801103697/
-/^(http|https)+\:\/\/.*facebook\.com\/108239801103697/
-/^(http|https)+\:\/\/.*facebook\.com\/FalunGong513/
-/^(http|https)+\:\/\/.*facebook\.com\/.*-1427366544202504/
-/^(http|https)+\:\/\/.*facebook\.com\/1427366544202504/
-/^(http|https)+\:\/\/.*facebook\.com\/.*-100615995158903/
-/^(http|https)+\:\/\/.*facebook\.com\/100615995158903/
-/^(http|https)+\:\/\/.*facebook\.com\/9ronpyou\.jp/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/NTDChinese/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/ntdtv\.com\.tw/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/ntdfriends/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/NTDInternationalPianoCompetition/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/NTDCAChinese/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/ntdoilpainting/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/NewsWeekNTD/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/NTDatHsinchu/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/NTDtvMartialArts/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/francentdtv/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/ntdtvVocal/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/www\.minghui\.org/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/falunHK/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/falungongmelbourne/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/FalunGongClub/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/.*-108239801103697/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/108239801103697/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/FalunGong513/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/.*-1427366544202504/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/1427366544202504/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/.*-100615995158903/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/100615995158903/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*facebook\.com\/9ronpyou\.jp/
  # 法輪功_youtube (beta)
-/^(http|https)+\:\/\/.*youtube.com\/user\/FalunGongStories/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDCHINESE/
-/^(http|https)+\:\/\/.*youtube.com\/user\/ntdsfad/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDTVJP/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDAPTV/
-/^(http|https)+\:\/\/.*youtube.com\/user\/ChinaBreakingNewsTV/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCa7HsNwWh3EOP33cHAjgVjw/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDAmazingWorld/
-/^(http|https)+\:\/\/.*youtube.com\/user\/ntdtvchinese3/
-/^(http|https)+\:\/\/.*youtube.com\/user\/ChinaBreakingNewsCN/
-/^(http|https)+\:\/\/.*youtube.com\/user\/ntdtvchinese2/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCBRcyI55pANUU4Ofia75yEg/
-/^(http|https)+\:\/\/.*youtube.com\/user\/laowaiteachesenglish/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCYonTjSE3brksc-tOgMdeQw/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDChinaNewsChannel/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCwn0Z4uN7zBSZXDG0chK7wg/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDfoodparadise/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NewsWeekNTD/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDNewsClick/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDChineseFood/
-/^(http|https)+\:\/\/.*youtube.com\/user\/NTDCHINESJK1/
-/^(http|https)+\:\/\/.*youtube.com\/channel\/UCP48F9RgJL8iJEjRam21eWw/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/FalunGongStories/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDCHINESE/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/ntdsfad/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDTVJP/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDAPTV/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/ChinaBreakingNewsTV/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCa7HsNwWh3EOP33cHAjgVjw/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDAmazingWorld/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/ntdtvchinese3/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/ChinaBreakingNewsCN/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/ntdtvchinese2/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCBRcyI55pANUU4Ofia75yEg/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/laowaiteachesenglish/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCYonTjSE3brksc-tOgMdeQw/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDChinaNewsChannel/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCwn0Z4uN7zBSZXDG0chK7wg/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDfoodparadise/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NewsWeekNTD/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDNewsClick/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDChineseFood/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/user\/NTDCHINESJK1/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*youtube.com\/channel\/UCP48F9RgJL8iJEjRam21eWw/
  # 法輪功__Twitter
-/^(http|https)+\:\/\/.*twitter.com\/thxforfalundafa/
-/^(http|https)+\:\/\/.*twitter.com\/realzhengjian/
-/^(http|https)+\:\/\/.*twitter.com\/falungong\_info/
-/^(http|https)+\:\/\/.*twitter.com\/tai66314934/
-/^(http|https)+\:\/\/.*twitter.com\/r97139360/
-/^(http|https)+\:\/\/.*twitter.com\/wendywe19633267/
-/^(http|https)+\:\/\/.*twitter.com\/iqcnkloaoppawht/
-/^(http|https)+\:\/\/.*twitter.com\/susanrbt2/
-/^(http|https)+\:\/\/.*twitter.com\/wu42603244/
-/^(http|https)+\:\/\/.*twitter.com\/jonahparexion/
-/^(http|https)+\:\/\/.*twitter.com\/lihongzhico/
-/^(http|https)+\:\/\/.*twitter.com\/whvgh/
-/^(http|https)+\:\/\/.*twitter.com\/susanrbt5/
-/^(http|https)+\:\/\/.*twitter.com\/tan17336934/
-/^(http|https)+\:\/\/.*twitter.com\/dafastory/
-/^(http|https)+\:\/\/.*twitter.com\/www\_minghuiorg/
-/^(http|https)+\:\/\/.*twitter.com\/flminhuiwang/
-/^(http|https)+\:\/\/.*twitter.com\/xialili2012/
-/^(http|https)+\:\/\/.*twitter.com\/whvgh/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/thxforfalundafa/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/realzhengjian/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/falungong\_info/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/tai66314934/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/r97139360/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/wendywe19633267/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/iqcnkloaoppawht/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/susanrbt2/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/wu42603244/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/jonahparexion/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/lihongzhico/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/whvgh/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/susanrbt5/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/tan17336934/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/dafastory/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/www\_minghuiorg/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/flminhuiwang/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/xialili2012/
+ # 過於耗能 暫時禁用 /^(http|https)+\:\/\/.*twitter.com\/whvgh/
 
  # 認可我的努力? ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
