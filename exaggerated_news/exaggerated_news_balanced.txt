@@ -46,6 +46,22 @@
  # ---
 cgtnnow.com
 c-radio.com.au
+ # 北京天盈九州网络技术有限公司 (凤凰网)
+fengzhibo.com.cn
+ifeng.com
+phoenixtv.com
+phoenixtv.com.cn
+ # 怡丰联合（北京）科技有限责任公司 (凤凰网)
+ifengcdn.com
+ifengidc.com
+icdn2.com
+ifengimg.com
+ifengbuy.com
+h5youxi.com
+ # 凤凰金房信息咨询（北京）有限公司
+fengcx.com
+fengcaixun.cn
+fengcaixun.com
  # 央广网文化传媒有限公司
 cnrmz.cn
 uycnr.com
@@ -392,8 +408,9 @@ nextmedia.com.tw
 *fa*lun*
 *epoch*
  # *epoch*times*
-*ntdtv*
-*ntd*tv*
+ # *ntdtv*
+ # *ntd*tv*
+*ntd*
 *shenyun*
 *shen*yun*
 *tianyin*
@@ -504,6 +521,7 @@ faluninfo.or.kr
 ming-jian.net
 mhxw.club
 mh4u.org
+ntdvn.com
  # tuidang.org 原來也是法輪功的人架設的... 若誤會了請告知一聲 謝謝
 tuidang.org
  # cc.greatfire.org 好像跟疑似法輪功推出的翻牆browser"自由新闻"有关连 可惜了...
