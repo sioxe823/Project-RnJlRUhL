@@ -56,6 +56,12 @@
  # ---
 cgtnnow.com
 c-radio.com.au
+ # 凤凰网
+pcne.tv
+ifengus.com
+phoenixcnetv.com
+ # ifengus.com --> huasheng.us
+huasheng.us
  # 北京天盈九州网络技术有限公司 (凤凰网)
 fengzhibo.com.cn
 ifeng.com
