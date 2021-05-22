@@ -93,6 +93,7 @@ $app=com.bestmind.antifraud
 ! https://www.virustotal.com/gui/file/d37c30ae70ac3a6a3cdf4c27e0afc67109c440849ac317bd57d799000b09bfae/
 $app=com.bjxz.srhy
 ! 此app直接以ip連接後端server
+! 实人核验平台管理系统 http://106.39.52.58:18081/srhypt-admin/index 需以「Accept-Language: zh-CN」身份进入
 106.39.52.58$network
 ||cmt7221.f3322.net^
 ! 106.39.52.58 ---> cmt7221.f3322.net

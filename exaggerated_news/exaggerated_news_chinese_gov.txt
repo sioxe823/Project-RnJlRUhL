@@ -1,0 +1,362 @@
+ # ----- 共媒/紅媒/中資媒體 -----
+ # 其實牆內的媒體都不要多信...
+ # 其實牆內的媒體都不要多信... 不另外做 *.cn 了 免得嚴重影響用戶體驗
+*.gov.cn
+*cgtn*
+*cctv*
+*cntv*
+*news*.cn
+*xin*hua*
+*daily*.cn
+*radio*.cn
+*nan*zao*
+*scmp*
+*media*.cn
+*world*now*.cn
+*city*of*.cn
+*huan*qiu*.cn
+*vlog*.cn
+*blog*.cn
+*china*daily*.cn
+*xin*wen*.cn
+*ri*bao*.cn
+*dian*tai*.cn
+*zhou*bao*.cn
+*zhou*kan*.cn
+*zhong*guo*.cn
+*dong*fang*.cn
+*hua*xia*.cn
+*zhong*hua*.cn
+*mei*ti*.cn
+*forum*.cn
+*voice*.cn
+ # 雖然 *post*.cn 會誤殺中国邮政(chinapost.com.cn) 但...沒辦法了~
+*post*.cn
+ # *zhou*kan*
+ # *hua*xia*
+ # *zhong*guo*
+ # *zhong*hua*
+ # *mei*ti*
+ # *dong*fang*
+ # *dian*tai*
+ # *zhou*bao*
+ # *china*post* 怕誤殺TW/MY/SG媒體 稍後處理
+ # *china*forum* 怕誤殺TW/MY/SG媒體
+ # *chinese*forum* 怕誤殺TW/MY/SG媒體
+ # *china*blog* 怕誤殺TW/MY/SG媒體
+ # *chinese*blog* 怕誤殺TW/MY/SG媒體
+ # *china*vlog* 怕誤殺TW/MY/SG媒體
+ # *chinese*vlog* 怕誤殺TW/MY/SG媒體
+ # *chinese*radio* 怕誤殺TW/MY/SG媒體
+ # *xin*wen* 怕誤殺TW/MY/SG媒體
+ # *china*daily* 怕誤殺TW/MY/SG媒體
+ # *ri*bao* 怕誤殺TW/MY/SG媒體 稍後處理
+ # *china*view* 怕誤殺TW/MY/SG媒體
+ # *chinese*radio* 怕誤殺TW/MY/SG媒體 稍後處理
+ # ---
+cgtnnow.com
+c-radio.com.au
+ # 央广网文化传媒有限公司
+cnrmz.cn
+uycnr.com
+kazakcnr.com
+krcnr.cn
+cnrmz.com
+tibetcnr.com
+mongolcnr.cn
+cnr.cn
+ # 人民日报媒体技术股份有限公司
+hubpd.com
+xuexishequ.cn
+snshub.cn
+pdmi.cn
+pdmiryun.com
+ # 央视国际视频通讯有限公司网站
+cgtn.com
+cctvplus.com
+newsharing.com
+eurasianews.cn
+newscctv.cn
+brnalink.com
+videomediaforum.com
+eurasianews.com.cn
+cctvnews.cn
+cctvnc.cn
+cctvplus.tv
+newscctv.net
+ # 环球时报在线（北京）文化传播有限公司
+huanqiu.com
+globaltimes.cn
+huanqiucdn.cn
+caihulu.com.cn
+zlibs.com
+worldmall365.net
+globalsphare.com
+huanqiu-ltd.com
+lifetimes.cn
+worldshop365.net
+worldmall365.cn
+worldshop365.com
+worldshop365.cn
+solution9.net
+betaenv.com
+lifetimes.com.cn
+huanqiu.org
+huanqiu.cn
+develenv.com
+worldmall365.com
+ # 新華通訊社 / 新华网股份有限公司
+jstsxz.com
+gszg.gov.cn
+zxdbw.net
+kzjn70.cn
+wenmingwangzhan.cn
+hsdnews.cn
+china-goh.org.cn
+xiongan.gov.cn
+xpanda.cn
+ynmyanmar.com
+lianghui.cn
+nxhbh.com.cn
+focac2018.cn
+70prc.cn
+zgcbh2017.com.cn
+zgcbh2017.org
+zgcbh2017.com
+xinhuanet.ltd
+newsres.cn
+chinafrance50.org
+china-goh.com
+xinhuanet.com
+xinhuanet.com.cn
+xinhuanet.cn
+homeurl.cn
+news.cn
+xhnet.com
+newsstat.cn
+chinaequip.cn
+newsimg.cn
+zoom-inpoverty.org
+chinaeurope-relations.cn
+china-goh.cn
+topreading.org.cn
+topreading.cn
+nationalreading.org.cn
+新华网.cn
+xn--xkrr14bows.cn
+xinwen.cn
+新华网.中国
+xn--xkrr14bows.xn--fiqs8s
+xinhua.cn
+xinhua.org
+chinaview.cn
+cngongji.cn
+chinaeurope40.org
+ # 中国日报 / 中报国际文化传媒（北京）有限公司
+cndy.org
+ejilin.gov.cn
+china-anshun.com.cn
+wuzhenwic.org
+media.gov.cn
+ezhejiang.gov.cn
+xiangzhouonline.com
+goguangdong.com.cn
+ehainan.gov.cn
+bizwnd.com
+i21st.cn
+wndonline.cn
+beijing-tokyo.org
+beijingtokyoforum.com
+beijingtokyoforum.cn
+wuzhenwic.org.cn
+wuzhenwic.net
+cityofzhuhai.com
+chinadaily.cn
+chinadaily.net
+chinadailyusa.com
+eguiyang.com.cn
+cdurl.cn
+tjtimeline.cn
+qianxinanmt.com
+gowuxi.com
+onlinesolutions.cn
+investinchina.net
+gofujian.com.cn
+goinnermongolia.com.cn
+enhainan.com
+newchinatowns.com.cn
+chinadailycanada.com
+chinadailyafrica.com
+bdainvest.org
+beijingtokyoforum.org
+beijing-tokyo.cn
+beijing-tokyoforum.cn
+beijingtokyoforum.com.cn
+wicnews.org.cn
+newscartoon.cn
+newscartoon.com.cn
+worldnow.cn
+worldnow.com.cn
+chinadaily.com.cn
+cityofbeijing.cn
+cityofbeijing.com.cn
+cityofbeijing.gov.cn
+chinaethnicgroups.com
+seeyangzhou.com
+eguizhou.gov.cn
+eguangzhou.gov.cn
+exploringtianjin.com
+ensipa.cn
+gojiangsu.com.cn
+goshandong.com.cn
+goshanxi.com.cn
+ # 南華早報
+ # 擁有人：阿里巴巴集團
+ # "聚焦中國的南華早報中文版nanzao.com已經下架。" 你懂的
+scmp.com
+ # nanzao.com 已棄用? 現屬河南金思维品牌管理研究院
+i-scmp.com
+ # 央视频融媒体发展有限公司
+yangshipin.cn
+ # 中国国际广播电台
+cri.cn
+readingchinese.cn
+chineseradio.com.cn
+chineseradio.cn
+crisydney.com
+cririo.com
+criberlin.com
+itaiwannews.cn
+hitfm.cn
+crinihaochina.com
+discoverplusradio.cn
+criezfm.com.cn
+sinorussian21st.org
+primeplusradio.cn
+chinesecity.com.cn
+crichinese.cn
+criankara.com
+cribsas.com
+criwashington.com
+crimoscow.com
+crilondon.com
+criseoul.com
+globalfm.cn
+silktrek.com
+chinesefilms.cn
+criezfm.cn
+silkroddream.com
+inetradio.cn
+crieasyfm.com
+musicplusradio.cn
+criezfm.com
+chinamwh.com
+crinewsradio.cn
+crionline.cn
+chinabroadcast.cn
+chinaradio.cn
+cri.com.cn
+crienglish.com
+discoverplusradio.com.cn
+cricr.cn
+cricz.cn
+criarabic.com
+critokyo.com
+sinorusfocus.com
+newsplusradio.cn
+novotrail.com
+novotrails.com
+ # 人民网股份有限公司
+brnn.com
+beltandroadforum.org
+beltandroadforum.org.cn
+sklccc.net
+unn.com.cn
+peopledaily.ac.cn
+peopledaily.cn
+peopledaily.com.cn
+rmrb.com.cn
+peoplecloud.com.cn
+booker.com.cn
+sklccc.net.cn
+sklccc.com.cn
+peoplecdn.cn
+qgblog.cn
+people.cn
+rmxiongan.com
+sklccc.com
+qglt.com
+sportsonline.com.cn
+dengxiaopingnet.com
+rmqydll.cn
+meitiyun.com
+people.com.cn
+sklccc.cn
+cpcnews.cn
+peopleinfo.com.cn
+peopledailycloud.com
+newmediacloud.com.cn
+newmediacloud.cn
+qglt.com.cn
+peopleurl.cn
+npcnews.com.cn
+ # 央视国际网络有限公司
+uyntv.cn
+ipanda.net
+cctvpic.com
+kzntv.cn
+ipanda.cn
+cctvcdn.com
+cntvwb.cn
+cctvolympic.cn
+cctvolympic.com.cn
+docuchina.cn
+uyntv.com
+kzntv.com
+cctvcdn.net
+cntv.com.cn
+livechina.com
+livechina.cn
+2010expotv.com
+chinahsly.cn
+cctvolympics.cn
+ipanda.com
+ipanda.com.cn
+cctvolympics.com.cn
+chinahsly.com
+cntv.cn
+chinahsly.com.cn
+olympicchannelchina.cn
+ # 中央电视台
+cctvlib.com.cn
+cctvlibrary.cn
+cctv.com.cn
+avpro.com.cn
+tvpro.cn
+cctvpro.cn
+cctvlibrary.com.cn
+cctvlib.cn
+chinatvtech.cn
+avpro.cn
+cctvpro.com.cn
+tvpro.com.cn
+chinatvtech.com.cn
+cctvlib.com
+cctvlibrary.com
+cctv.com
+cctv.cn
+ # 央视国际视频通讯有限公司
+newscctv.cn
+eurasianews.cn
+newsharing.com
+cctvplus.com
+cctvnews.cn
+eurasianews.com.cn
+videomediaforum.com
+brnalink.com
+newscctv.net
+cctvplus.tv
+cgtn.com
+cctvnc.cn
+
+ # 認可我的努力? ETH: 0x864c0CD4033b441025d7a8D9f747CB9b43B3DDBd
