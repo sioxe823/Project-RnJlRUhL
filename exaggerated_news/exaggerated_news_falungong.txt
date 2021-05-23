@@ -126,6 +126,8 @@ mh4u.org
 ntdvn.com
 ntd.com
 epochbase.com
+ # shenxunchat.com 疑似是法輪功的人開發的通訊app 不確定..
+ # mycurrentmessenger.com 疑似是法輪功的人開發的通訊app 不確定..
  # tuidang.org 原來也是法輪功的人架設的... 若誤會了請告知一聲 謝謝
 tuidang.org
  # cc.greatfire.org 好像跟疑似法輪功推出的翻牆browser"自由新闻"有关连 可惜了...
