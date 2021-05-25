@@ -46,6 +46,9 @@
  # ---
 cgtnnow.com
 c-radio.com.au
+ # 中国共产党中央委员会政法委员会 (中国长安网)
+chinapeace.gov.cn
+zgzfwy.gov.cn
  # 凤凰网
 pcne.tv
 ifengus.com
