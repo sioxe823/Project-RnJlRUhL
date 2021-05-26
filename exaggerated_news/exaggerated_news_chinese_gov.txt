@@ -56,6 +56,10 @@
  # ---
 cgtnnow.com
 c-radio.com.au
+ # 上海东方报业有限公司 (澎湃新闻)
+thepaper.cn
+ # Sixth Tone是由中共上海市委控制的上海報業集團旗下的英文網絡雜誌，是澎湃新聞的姊妹刊。
+sixthtone.com
  # 中国共产党中央委员会政法委员会 (中国长安网)
 chinapeace.gov.cn
 zgzfwy.gov.cn
