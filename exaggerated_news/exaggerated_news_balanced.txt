@@ -21,7 +21,7 @@
 *daily*.cn
 *radio*.cn
 *nan*zao*
-*scmp*
+ # *scmp* 已解除誤會
 *media*.cn
 *world*now*.cn
 *city*of*.cn
@@ -232,9 +232,9 @@ goshanxi.com.cn
  # 南華早報
  # 擁有人：阿里巴巴集團
  # "聚焦中國的南華早報中文版nanzao.com已經下架。" 你懂的
-scmp.com
+ # scmp.com 已解除誤會
  # nanzao.com 已棄用? 現屬河南金思维品牌管理研究院
-i-scmp.com
+ # i-scmp.com 已解除誤會
  # 央视频融媒体发展有限公司
 yangshipin.cn
  # 中国国际广播电台
